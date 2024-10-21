@@ -25,8 +25,6 @@ py -m pip install -r requirements.txt
 
 ## 修改项目并上传
 
-`venv/Lib` 目录下的文件不用传上来，不过已经写在 `.gitignore` 里了，大概 `git add ./` 没有问题8
-
 ```
 git add ./
 git commit -m "message"
@@ -44,6 +42,8 @@ git checkout -
 ```
 
 ### 更新 `requirements.txt`
+
+如果有在虚拟环境里安装新的包，不用把 `./venv/` 文件夹里的文件传上来（我已经写在了 `.gitignore` 里，所以应该不会传上来），取而代之可以更新一下 `requirements.txt` 文件。
 
 确保已经激活虚拟环境噢，即命令行开头是 `(venv)` 而不是 `(base)`. 
 
