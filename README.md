@@ -16,6 +16,8 @@ git clone https://github.com/Jziumo/linear_programming_term_project.git
 .\venv\Scripts\Activate.ps1
 ```
 
+确保已经激活虚拟环境噢，即命令行开头是 `(venv)` 而不是 `(base)`. 
+
 安装 `requirements.txt` 中的依赖：
 ```
 py -m pip install -r requirements.txt
@@ -39,4 +41,12 @@ git checkout -b m2
 如果要切换回来：
 ```
 git checkout -
+```
+
+### 更新 `requirements.txt`
+
+确保已经激活虚拟环境噢，即命令行开头是 `(venv)` 而不是 `(base)`. 
+
+```
+pip freeze > requirements.txt
 ```
