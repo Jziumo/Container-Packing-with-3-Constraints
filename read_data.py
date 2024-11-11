@@ -17,7 +17,14 @@ def read_data(task) :
 
     print("The rows and columns of the data:", data.shape[0], 'x', data.shape[1])
 
-    return data.to_numpy()
+    # @todo 将data 改为map式的
+    map = {}
+    map['order number'] = [str(int(order)) for order in data['Order Number'].tolist()]
+    map['weight'] = [int(weight) for weight in data['Weight (lbs)'].tolist()]
+    map['volume'] = [int(volume) for volume in data['Volume (in3)'].tolist()]
+    map['pallets'] = [int(pallets) for pallets in data['Pallets'].tolist()]
 
-# read_data('a')
-read_data('b')
+    return map
+
+read_data('a')
+# read_data('b')
