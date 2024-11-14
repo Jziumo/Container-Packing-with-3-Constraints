@@ -1,5 +1,7 @@
 # ISE 536 Term Project
 
+[Return to the Homepage](https://github.com/Jziumo/linear_programming_term_project)
+
 [Return to the Catalog](../README.md)
 
 ## Part a
@@ -9,5 +11,3 @@ You are a data scientist for an independent distribution center that receives or
 ## Part b
 
 The distribution company has a new strategic initiative to shorten transportation time that would ultimately get products to customers more quickly and allow them to be more competitive. Also, recently the number of orders has increased to 1,000 per day.  As the lead data scientist for the company you are tasked with developing an algorithm that minimizes the number of containers shipped per day and compute time such that the warehouse team can obtain the solution and send containers more rapidly.  Design a solution that does both: minimizes compute time and the number of containers while meeting weight, volume, and pallet constraints. 
-
-[Return to the Catalog](../README.md)
