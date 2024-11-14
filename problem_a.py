@@ -3,8 +3,8 @@ import read_data
 
 def main():
     # @注意：可以尝试添加第2个参数，表示只计算前n个订单的结果 
-    data = read_data.readSortedData('a', sort_by='weight', ascending=True, first_n_rows=None)
-    # data = read_data.readSortedData('a', sort_by='weight', ascending=True, first_n_rows=40)
+    # data = read_data.readSortedData('a', sort_by='weight', ascending=True, first_n_rows=None)
+    data = read_data.readSortedData('a', sort_by='weight', ascending=True, first_n_rows=40)
     # data = read_data.readData('a')
 
     size = len(data['order number'])
@@ -95,15 +95,15 @@ def main():
                 pallets.append(container_pallets)
 
                 output_message += f"Container {j}:\n" 
-                output_message += f"- Orders packed: {container_items}\n"
-                output_message += f"- Weight: {container_weight}\n"
-                output_message += f"- Volume: {container_volume}\n"
-                output_message += f"- Pallets: {container_pallets}\n"
+                output_message += f"├─ Orders packed: {container_items}\n"
+                output_message += f"├─ Weight: {container_weight}\n"
+                output_message += f"├─ Volume: {container_volume}\n"
+                output_message += f"├─ Pallets: {container_pallets}\n"
                 
                 # check if the container satisfies the capacity constraint
                 satisfy_contraint = True
                 if container_weight <= max_weight and container_volume <= max_volume and container_pallets <= max_pallets:
-                    output_message += "(satisfies the capacity constraints)\n"
+                    output_message += "├─ (satisfies the capacity constraints)\n"
                 else: 
                     output_message += "container is overloaded!\n"
                     satisfy_contraint = False
@@ -113,12 +113,14 @@ def main():
                 if satisfy_contraint:
                     utilization_rate = (container_weight / max_weight + container_volume / max_volume + container_pallets / max_pallets) / 3
                     rates.append(utilization_rate)
-                    output_message += f"Average utilization rate of the container: {utilization_rate}\n"
+                    output_message += f"└─ Average utilization rate of the container: {utilization_rate}\n"
 
                 output_message += "\n"
                 num_containers += 1
 
         output_message += "Total analysis: \n"
+
+        output_message += f"├─ Total number of containers used: {num_containers}\n"
 
         # calculate the total amount 
         total_weight = sum(weights)
@@ -129,18 +131,19 @@ def main():
         weight_rate = total_weight / (max_weight * num_containers)
         volume_rate = total_volume / (max_volume * num_containers)
         pallets_rate = total_pallets / (max_pallets * num_containers)
+        total_utilization_rate = (weight_rate + volume_rate + pallets_rate) / 3
 
-        output_message += "|- Utilization rate"
-        # 写到一半你就要看代码😡 
-
-
-        output_message += f"Total number of containers used: {num_containers}\n"
+        output_message += "├─ Utilization rate\n"
+        output_message += f"│  ├─ weight rate: {weight_rate: .4f}\n"
+        output_message += f"│  ├─ volume rate: {volume_rate: .4f}\n"
+        output_message += f"│  ├─ pallets rate: {pallets_rate: .4f}\n"
+        output_message += f"│  └─ total: {total_utilization_rate: .4f}\n"
 
         # output if all the containers satisfy the capacity constraint
         if all_satisfied: 
-            output_message += "All containers satisfy the capacity constraints.\n"
+            output_message += "└─ All containers satisfy the capacity constraints.\n"
         else: 
-            output_message += "Some containers are overloaded!\n"
+            output_message += "└─ Some containers are overloaded!\n"
 
         print(output_message) 
 
