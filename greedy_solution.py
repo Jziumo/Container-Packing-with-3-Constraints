@@ -1,9 +1,8 @@
-
 import read_data
 
-def getRandomSolution(task, print_out=False): 
-
-    data = read_data.readShuffledData(task=task, first_n_rows=None)
+def greedy(task, data=None, print_out=False):
+    if data == None: 
+        data = read_data.readSortedData(task, sort_by="volume", ascending=False, print_out=print_out)
 
     size = len(data['order number'])
 
@@ -13,7 +12,7 @@ def getRandomSolution(task, print_out=False):
 
     # a solution formed by a group of containers 
     solution = []
-    container_idx = 0
+    container_idx = 0   
 
     # variables used to calculate the utilization rate
     weights = []
@@ -25,6 +24,9 @@ def getRandomSolution(task, print_out=False):
     order_idx = 0
 
     output_message = ""
+    
+    # boolean tags of all the orders, indicating whether they are pakced
+    packed = [False] * size
 
     while order_idx < size: 
         # values of each 
@@ -36,16 +38,32 @@ def getRandomSolution(task, print_out=False):
 
         # fill the container until it is full or all orders are packed
         while order_idx < size: 
-            if exceedLimit(container_weight, container_volume, container_pallets, data, order_idx) == False: 
-                container_items.append(data['order number'][order_idx])
+            # print('order_idx:', order_idx)
+            if packed[order_idx] == False:
 
-                container_weight += data['weight'][order_idx]
-                container_volume += data['volume'][order_idx]
-                container_pallets += data['pallets'][order_idx]
+                if exceedLimit(container_weight, container_volume, container_pallets, data, order_idx) == False: 
+                    # pack the current order (largest value)
+                    container_items.append(data['order number'][order_idx])
+                    container_weight += data['weight'][order_idx]
+                    container_volume += data['volume'][order_idx]
+                    container_pallets += data['pallets'][order_idx]
+                    packed[order_idx] = True
 
+                    order_idx += 1
+                else: 
+                    # look for other smaller items that could be packed in
+                    for i in range(size - 1, order_idx, -1):
+                        if packed[i] == False and exceedLimit(container_weight, container_volume, container_pallets, data, i) == False:
+                            # print('pack:', i)
+                            container_items.append(data['order number'][i])
+                            container_weight += data['weight'][i]
+                            container_volume += data['volume'][i]
+                            container_pallets += data['pallets'][i]
+                            packed[i] = True      
+                    # break the container loop
+                    break;
+            else:
                 order_idx += 1
-            else: 
-                break;
 
         # a container is almost full
         weights.append(container_weight)
@@ -79,6 +97,7 @@ def getRandomSolution(task, print_out=False):
         solution.append(container)
 
         container_idx += 1
+        # The container loop ends here
         
     output_message += "Total analysis: \n"
 
@@ -113,9 +132,9 @@ def getRandomSolution(task, print_out=False):
         print(output_message) 
     output_path = ''
     if task == 'a':
-        output_path = "./output/result_a_random.txt"
+        output_path = "./output/result_a_greedy.txt"
     elif task == 'b':
-        output_path = "./output/result_b_random.txt"
+        output_path = "./output/result_b_greedy.txt"
 
     with open(output_path, "w") as file: 
         file.write(output_message)
@@ -125,14 +144,13 @@ def getRandomSolution(task, print_out=False):
 def exceedLimit(cur_weight, cur_volume, cur_pallets, data, i):
     return cur_weight + data['weight'][i] > 45000 or cur_volume + data['volume'][i] > 3600 or cur_pallets + data['pallets'][i] > 60
 
-def randomTest(task, test_times=100):
-    sum = 0
-    for i in range(test_times):
-        _,num_containers = getRandomSolution(task=task, print_out=False)
-        sum += num_containers
-        
-    average = sum / test_times
-    print(f"Average number of containers in random solutions: {average: .2f}")
-    return
+def getOrderLambda(df, x=1, y=1, z=1): 
+    # coefficient for each attribute
+    return df['Weight (lbs)'] * x + df['Volume (in3)'] * y + df['Pallets'] * z
 
-randomTest('b', 10000)
+df = read_data.getDataFrame(task='b')
+df['lambda'] = getOrderLambda(df)
+data = read_data.getMap(read_data.sort(df, sort_by='lambda', ascending=False))
+
+_,num_containers = greedy(task='b', data=data, print_out=False)
+print("Number of containers used:", num_containers)

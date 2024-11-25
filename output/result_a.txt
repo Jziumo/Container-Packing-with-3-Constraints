@@ -1,8 +1,1 @@
-Container 0:
-- Orders packed: ['50135985', '17708789', '25448434']
-- Weight: 30053
-- Volume: 3535
-- Pallets: 42
-(satisfies the capacity constraints)
-
-Total number of containers used: 1
+Solving with SCIP 9.0.0 [LP solver: Glop 9.11]
