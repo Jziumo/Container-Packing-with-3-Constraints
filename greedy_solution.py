@@ -31,34 +31,50 @@ def greedy(task, data=None, print_out=False):
     while order_idx < size: 
         # values of each 
         container_items = []
+        container_weights = []
+        container_volumes = []
+        container_pallets = []
 
-        container_weight = 0
-        container_volume = 0
-        container_pallets = 0
+        container_total_weight = 0
+        container_total_volume = 0
+        container_total_pallets = 0
 
         # fill the container until it is full or all orders are packed
         while order_idx < size: 
             # print('order_idx:', order_idx)
             if packed[order_idx] == False:
 
-                if exceedLimit(container_weight, container_volume, container_pallets, data, order_idx) == False: 
+                if exceedLimit(container_total_weight, container_total_volume, container_total_pallets, data, order_idx) == False: 
                     # pack the current order (largest value)
                     container_items.append(data['order number'][order_idx])
-                    container_weight += data['weight'][order_idx]
-                    container_volume += data['volume'][order_idx]
-                    container_pallets += data['pallets'][order_idx]
+                    container_weights.append(data['weight'][order_idx])
+                    container_volumes.append(data['volume'][order_idx])
+                    container_pallets.append(data['pallets'][order_idx])
+
+                    # record the current sum
+                    container_total_weight += data['weight'][order_idx]
+                    container_total_volume += data['volume'][order_idx]
+                    container_total_pallets += data['pallets'][order_idx]
+
+                    # tag visited (packed)
                     packed[order_idx] = True
 
                     order_idx += 1
                 else: 
                     # look for other smaller items that could be packed in
                     for i in range(size - 1, order_idx, -1):
-                        if packed[i] == False and exceedLimit(container_weight, container_volume, container_pallets, data, i) == False:
-                            # print('pack:', i)
+                        if packed[i] == False and exceedLimit(container_total_weight, container_total_volume, container_total_pallets, data, i) == False:
                             container_items.append(data['order number'][i])
-                            container_weight += data['weight'][i]
-                            container_volume += data['volume'][i]
-                            container_pallets += data['pallets'][i]
+                            container_weights.append(data['weight'][i])
+                            container_volumes.append(data['volume'][i])
+                            container_pallets.append(data['pallets'][i])
+
+                            # record the current sum
+                            container_total_weight += data['weight'][i]
+                            container_total_volume += data['volume'][i]
+                            container_total_pallets += data['pallets'][i]
+
+                            # tag visited (packed)
                             packed[i] = True      
                     # break the container loop
                     break;
@@ -66,19 +82,19 @@ def greedy(task, data=None, print_out=False):
                 order_idx += 1
 
         # a container is almost full
-        weights.append(container_weight)
-        volumes.append(container_volume)
-        pallets.append(container_pallets)
+        weights.append(container_total_weight)
+        volumes.append(container_total_volume)
+        pallets.append(container_total_pallets)
 
         output_message += f"Container {container_idx}:\n" 
         output_message += f"├─ Orders packed: {container_items}\n"
-        output_message += f"├─ Weight: {container_weight}\n"
-        output_message += f"├─ Volume: {container_volume}\n"
-        output_message += f"├─ Pallets: {container_pallets}\n"
+        output_message += f"├─ Weight: {container_total_weight}\n"
+        output_message += f"├─ Volume: {container_total_volume}\n"
+        output_message += f"├─ Pallets: {container_total_pallets}\n"
         
         # check if the container satisfies the capacity constraint
         satisfy_contraint = True
-        if container_weight <= max_weight and container_volume <= max_volume and container_pallets <= max_pallets:
+        if container_total_weight <= max_weight and container_total_volume <= max_volume and container_total_pallets <= max_pallets:
             output_message += "├─ (satisfies the capacity constraints)\n"
         else: 
             output_message += "└─ container is overloaded!\n"
@@ -87,13 +103,13 @@ def greedy(task, data=None, print_out=False):
         
         # analyze the utilization rate
         if satisfy_contraint:
-            utilization_rate = (container_weight / max_weight + container_volume / max_volume + container_pallets / max_pallets) / 3
+            utilization_rate = (container_total_weight / max_weight + container_total_volume / max_volume + container_total_pallets / max_pallets) / 3
             rates.append(utilization_rate)
             output_message += f"└─ Average utilization rate of the container: {utilization_rate: .4f}\n"
 
         output_message += "\n"
         
-        container = {'orders': container_items, 'weight': container_weight, 'volume': container_volume, 'pallets': container_pallets}
+        container = {'orders': container_items, 'weights': container_weights, 'volumes': container_volumes, 'pallets': container_pallets}
         solution.append(container)
 
         container_idx += 1
@@ -148,9 +164,9 @@ def getOrderLambda(df, x=1, y=1, z=1):
     # coefficient for each attribute
     return df['Weight (lbs)'] * x + df['Volume (in3)'] * y + df['Pallets'] * z
 
-df = read_data.getDataFrame(task='b')
-df['lambda'] = getOrderLambda(df)
-data = read_data.getMap(read_data.sort(df, sort_by='lambda', ascending=False))
+# df = read_data.getDataFrame(task='b')
+# df['lambda'] = getOrderLambda(df)
+# data = read_data.getMap(read_data.sort(df, sort_by='lambda', ascending=False))
 
-_,num_containers = greedy(task='b', data=data, print_out=False)
-print("Number of containers used:", num_containers)
+# _,num_containers = greedy(task='b', data=data, print_out=False)
+# print("Number of containers used:", num_containers)
