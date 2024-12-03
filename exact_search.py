@@ -1,7 +1,9 @@
-import read_data
-from ortools.linear_solver import pywraplp
 
-def exactSearch(data, print_out=True, solver_type="SCIP"):
+from ortools.linear_solver import pywraplp
+import read_data
+import greedy_solution as greedy
+
+def exactSearch(task, data, print_out=True, solver_type="SCIP", greedy_hint=True):
 
     size = len(data['order number'])
     # print(size)
@@ -44,6 +46,30 @@ def exactSearch(data, print_out=True, solver_type="SCIP"):
         
     # Objective: minimize the number of containers used.
     solver.Minimize(solver.Sum([y[j] for j in range(size)]))
+
+    if greedy_hint:
+        variables = []
+        hint_values = []
+
+        x_initial, y_initial = generateInitialSolution(task=task, problem_used_data=data)
+
+        containers_cnt = 0
+        for j in range(size):
+            if y_initial[j] == 1:
+                containers_cnt += 1
+
+        if print_out:
+            print("Initial solution given by greedy method:", containers_cnt)
+
+        for i in range(size):
+            for j in range(size):
+                variables.append(x[(i, j)])
+                hint_values.append(x_initial[i][j])
+        for j in range(size):
+            variables.append(y[j])
+            hint_values.append(y_initial[j])
+
+        solver.SetHint(variables, hint_values)
     
     # start solving
     if print_out:
@@ -155,3 +181,42 @@ def exactSearch(data, print_out=True, solver_type="SCIP"):
         file.write(output_message)    
 
     return num_containers, output_message
+
+def generateInitialSolution(task, problem_used_data):
+    # use greedy method to generate an intial solution
+    df = read_data.getDataFrame(task)
+    df['lambda'] = greedy.getOrderLambda(df, y=100)
+    data = read_data.getMap(read_data.sort(df, sort_by='lambda', ascending=False))
+    solution, num_containers = greedy.greedy(task=task, data=data, print_out=False)
+
+    # because the data used by greedy method is sorted, it cannot be used to find the indices of orders
+    data = problem_used_data
+    
+    # print(num_containers)
+    size = len(data['order number'])
+
+    # x[i, j] = 1 if order i is packed in container j.
+    # y[j] = 1 if container j is used.
+    x_initial = [[0] * size] * size
+    y_initial = [0] * size
+
+    for i in range(num_containers):
+        container = solution[i]
+        num_orders = len(container['orders'])
+        container_idx = getOrderIndex(data, container['orders'][0])
+        y_initial[container_idx] = 1
+
+        for j in range(num_orders):
+            order_idx = getOrderIndex(data, container['orders'][j])
+            x_initial[order_idx][container_idx] = 1
+
+    return x_initial, y_initial
+
+def getOrderIndex(data, order_number):
+    for i in range(len(data['order number'])):
+        if data['order number'][i] == order_number:
+            return i
+    return -1
+
+
+# generateInitialSolution(task='a')

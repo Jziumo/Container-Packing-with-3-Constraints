@@ -5,7 +5,7 @@ import greedy_solution as greedy
 import find_neighborhood as fn
 import check
 
-def simulatedAnnealing(task, cooling_rate=0.98, initial_temperature=10000, num_iterations=10000):
+def simulatedAnnealing(task, cooling_rate=0.98, initial_temperature=100000000, num_iterations=10000):
     # use greedy method to generate an intial solution
     df = read_data.getDataFrame(task)
     df['lambda'] = greedy.getOrderLambda(df, y=100)
@@ -26,7 +26,8 @@ def simulatedAnnealing(task, cooling_rate=0.98, initial_temperature=10000, num_i
         neighbor_solution, changed = fn.randomSwapOrders(solution=current_solution, penalty_allowed=True)
 
         # remove the empty containers
-        # current_solution = [container for container in current_solution if len(container['orders']) > 0]
+        neighbor_solution = [container for container in current_solution if len(container['orders']) > 0]
+        number_containers = len(neighbor_solution)
 
         # evaluate the score of the neighbor solution
         neighbor_score = evaluate(neighbor_solution)
@@ -50,7 +51,7 @@ def simulatedAnnealing(task, cooling_rate=0.98, initial_temperature=10000, num_i
                 
                 changed = True
 
-        print("neighbor score:", neighbor_score, "temperature:", temperature, changed)
+        print("neighbor score:", neighbor_score, "| temperature:", temperature, "| num containers:", number_containers, "|", changed)
 
         temperature *= cooling_rate
         

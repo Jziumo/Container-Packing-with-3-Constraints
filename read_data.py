@@ -7,13 +7,7 @@ data_1b_path = "./data/Term project data 1b.csv"
 col_names = {"order number": "Order Number", "weight": "Weight (lbs)", "volume": "Volume (in3)", "pallets": "Pallets", "lambda": "lambda"}
 
 def readData(task, first_n_rows = None, print_out=False):
-    file_path = ''
-    if task == 'a':
-        file_path = data_1a_path
-    elif task == 'b':
-        file_path = data_1b_path
-
-    data = read(file_path)
+    data = getDataFrame(task=task)
 
     # get the first n rows if specified
     if first_n_rows is not None:
@@ -27,17 +21,13 @@ def readData(task, first_n_rows = None, print_out=False):
     return map
 
 # get sorted data
-def readSortedData(task, sort_by='weight', ascending=True, first_n_rows = None, print_out=False): 
-    file_path = ''
-    if task == 'a':
-        file_path = data_1a_path
-    elif task == 'b':
-        file_path = data_1b_path
+def readSortedData(task, w=1, v=1, p=1, ascending=True, first_n_rows = None, print_out=False): 
+    data = getDataFrame(task=task)
 
-    data = read(file_path)
+    data['lambda'] = getOrderLambda(data, w=w, v=v, p=p)
     
     # sort the data frame
-    data = sort(data, sort_by=sort_by, ascending=ascending)
+    data = sort(data, sort_by='lambda', ascending=ascending)
 
     # get the first n rows if specified
     if first_n_rows is not None:
@@ -52,13 +42,7 @@ def readSortedData(task, sort_by='weight', ascending=True, first_n_rows = None, 
 
 # get shuffled data
 def readShuffledData(task, first_n_rows = None, print_out=False): 
-    file_path = ''
-    if task == 'a':
-        file_path = data_1a_path
-    elif task == 'b':
-        file_path = data_1b_path
-
-    data = read(file_path)
+    data = getDataFrame(task=task)
 
     # shuffle the data frame
     data = shuffle(data)
@@ -115,4 +99,7 @@ def shuffle(data):
 def extract(data, start, end): 
     return data.iloc[start:end]
 
-# readData('b', print_out=True)
+# get the lambda value for sorting
+def getOrderLambda(df, w=1, v=1, p=1): 
+    # coefficient for each attribute
+    return df['Weight (lbs)'] * w + df['Volume (in3)'] * v + df['Pallets'] * p

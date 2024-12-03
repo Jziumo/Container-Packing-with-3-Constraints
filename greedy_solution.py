@@ -160,13 +160,38 @@ def greedy(task, data=None, print_out=False):
 def exceedLimit(cur_weight, cur_volume, cur_pallets, data, i):
     return cur_weight + data['weight'][i] > 45000 or cur_volume + data['volume'][i] > 3600 or cur_pallets + data['pallets'][i] > 60
 
-def getOrderLambda(df, x=1, y=1, z=1): 
-    # coefficient for each attribute
-    return df['Weight (lbs)'] * x + df['Volume (in3)'] * y + df['Pallets'] * z
+def testGreedy(task):
+    data = read_data.readSortedData(task=task, w=0, v=0, p=1, ascending=False, print_out=False)
+    solution, num_containers = greedy(task=task, data=data, print_out=False)
+    print(f"number of containers: {num_containers}")
 
-# df = read_data.getDataFrame(task='b')
-# df['lambda'] = getOrderLambda(df)
-# data = read_data.getMap(read_data.sort(df, sort_by='lambda', ascending=False))
+def testBestGreedySolutions(task):
+    weight_limit = 10
+    volume_limit = 1000
+    pallets_limit = 50
 
-# _,num_containers = greedy(task='b', data=data, print_out=False)
-# print("Number of containers used:", num_containers)
+    min_num_containers = 2000
+    best_w = 0
+    best_v = 0
+    best_p = 0
+
+    for p in range(1, pallets_limit + 1): 
+        for w in range(1, weight_limit + 1):
+            for v in range(1, volume_limit + 1):
+                data = read_data.readSortedData(task=task, w=w, v=v, p=p, ascending=False, print_out=False)
+                
+                solution, num_containers = greedy(task=task, data=data, print_out=False)
+                
+                if num_containers < min_num_containers: 
+                    min_num_containers = num_containers
+                    best_w = w
+                    best_v = v
+                    best_p = p
+
+                    print(f"better coefficients update: w={w}, v={v}, p={p}, number of containers={num_containers}")
+
+    print(f"best sorting coefficients: w={best_w}, v={best_v}, p={best_p}, number of containers={min_num_containers}")
+
+    return best_w, best_v, best_p
+
+testBestGreedySolutions('b')
