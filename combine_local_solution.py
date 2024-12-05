@@ -1,33 +1,23 @@
 import read_data
 import exact_search
 
-def combineLocalSolution(task, batch_capacity=95):
-    df = read_data.shuffle(read_data.getDataFrame(task))
-    size = df.shape[0]
+def combineLocalSolution(task, batch_size_approximate=76):
     
-    start = 0
-    end = batch_capacity
+    batches = read_data.getSortedDataBatches(task=task, w=1, v=1, p=1, batch_size_approximate=batch_size_approximate, ascending=True, print_out=True)
+    
+    num_batches = len(batches)
     total_num_containers = 0
 
-    while start < size:
-        batch = read_data.getMap(read_data.extract(df, start, end))
+    for i in range(num_batches):
+        batch = batches[i]
+        
+        num_containers, _ = exact_search.exactSearch(task=task, data=batch, print_out=False, greedy_hint=False)
 
-        batch_size = len(batch['order number']);
-
-        num_containers, _ = exact_search.exactSearch(data=batch, print_out=False)
-
-        print('start:', start, '| end:', end,'| batch size:', batch_size, '| number of containers:', num_containers)
+        print(f'batch {i}: number of containers = {num_containers}')
 
         total_num_containers += num_containers
-
-        # update indices
-        start = end
-        end = start + batch_capacity
-        
-        if end > size: 
-            end = size
 
     print('Total number of containers:', total_num_containers)
 
 
-combineLocalSolution('a', batch_capacity=20)
+combineLocalSolution('a', batch_size_approximate=76)

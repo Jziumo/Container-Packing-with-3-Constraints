@@ -40,6 +40,25 @@ def readSortedData(task, w=1, v=1, p=1, ascending=True, first_n_rows = None, pri
 
     return map
 
+def getUtilizationRateBasedSortedData(task, ascending=False, first_n_rows = None, print_out=False):
+    data = getDataFrame(task=task)
+
+    data['lambda'] = getMaxUtilizationScore(df=data)
+    
+    # sort the data frame
+    data = sort(data, sort_by='lambda', ascending=ascending)
+
+    # get the first n rows if specified
+    if first_n_rows is not None:
+        data = data.head(first_n_rows)
+
+    if print_out:
+        print("The rows and columns of the data:", data.shape[0], 'x', data.shape[1])
+
+    map = getMap(data)
+
+    return map
+
 # get shuffled data
 def readShuffledData(task, first_n_rows = None, print_out=False): 
     data = getDataFrame(task=task)
@@ -57,6 +76,52 @@ def readShuffledData(task, first_n_rows = None, print_out=False):
     map = getMap(data)
 
     return map
+
+def getSortedDataBatches(task, w=1, v=1, p=1, batch_size_approximate=75, ascending=False, print_out=False):
+    data = getDataFrame(task=task)
+
+    batches = []
+
+    data['lambda'] = getOrderLambda(data, w=w, v=v, p=p)
+    
+    # sort the data frame
+    data = sort(data, sort_by='lambda', ascending=ascending)
+
+    size = data.shape[0]
+    batch_size = size
+    dividor = 1
+
+    while batch_size > batch_size_approximate:
+        dividor += 1
+        batch_size = size // dividor
+
+    if batch_size * dividor < size: 
+        batch_size += 1
+
+    batch_size_list = []
+    cnt = 0
+    while cnt < size:
+        if (size - cnt >= batch_size):
+            batch_size_list.append(batch_size)
+        else:
+            batch_size_list.append(size - cnt)
+        cnt += batch_size
+
+    start = 0
+    end = 0
+
+    for i in range(0, len(batch_size_list)):
+        current_size = batch_size_list[i]
+        end = start + current_size
+        batch = extract(data, start=start, end=end)
+        batch = getMap(batch)
+        batches.append(batch)
+        start = end
+
+    if print_out:
+        print("number of batches:", len(batches), "| batch size list:", batch_size_list)
+
+    return batches
 
 # map the task and file path
 def getDataFrame(task): 
@@ -103,3 +168,10 @@ def extract(data, start, end):
 def getOrderLambda(df, w=1, v=1, p=1): 
     # coefficient for each attribute
     return df['Weight (lbs)'] * w + df['Volume (in3)'] * v + df['Pallets'] * p
+
+def getMaxUtilizationScore(df):
+        
+    return df[['Weight (lbs)', 'Volume (in3)', 'Pallets']].apply(lambda row: max(row['Weight (lbs)'] / 45000, row['Volume (in3)'] / 3600, row['Pallets'] / 60), axis=1)
+
+
+# getSortedDataBatches('a', w=1, v=1, p=1, batch_size_approximate=75, ascending=False, print_out=True)

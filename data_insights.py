@@ -25,6 +25,8 @@ def getDataInsights(task):
     variance_volume = statistics.variance(volumes)
     variance_pallets = statistics.variance(pallets)
 
+    # print(variance_weight, variance_volume, variance_pallets)
+
     x = list(range(1, size + 1))
     max_pallets = 60
     max_weight = 45000
@@ -47,6 +49,23 @@ def drawScatterPlot(task, column, max_value, average, x, val_list, dot_color):
     plt.show()
     return
 
+def viewOrder(task, order): 
+    data = read_data.readData(task=task, first_n_rows=None, print_out=True)
+    
+    for i in range(len(data['order number'])):
+        if order == data['order number'][i]:
+            weight = data['weight'][i]
+            volume = data['volume'][i]
+            pallets = data['pallets'][i]
+            print(f'weight: {weight}')
+            print(f'volume: {volume}')
+            print(f'pallets: {pallets}')
+            utilization_rate = ((weight / 45000) + (volume / 3600) + (pallets / 60)) / 3
+            print(f'utilization rate: {utilization_rate:.2f}')
+            break
+
+    return
 
 # getDataInsights(task='a')
-getDataInsights(task='b')
+# getDataInsights(task='b')
+viewOrder(task='a', order='74322802')

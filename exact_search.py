@@ -182,11 +182,23 @@ def exactSearch(task, data, print_out=True, solver_type="SCIP", greedy_hint=True
 
     return num_containers, output_message
 
+# @change: hint might not effective! I need to select those data
 def generateInitialSolution(task, problem_used_data):
+    w = 1
+    v = 1
+    p = 1
+    
+    if task == 'a':
+        w = 1
+        v = 201
+        p = 1
+    elif task == 'b':
+        w = 5
+        v = 153
+        p = 45
+
     # use greedy method to generate an intial solution
-    df = read_data.getDataFrame(task)
-    df['lambda'] = greedy.getOrderLambda(df, y=100)
-    data = read_data.getMap(read_data.sort(df, sort_by='lambda', ascending=False))
+    data = read_data.readSortedData(task=task, w=w, v=v, p=p, ascending=False, print_out=False)
     solution, num_containers = greedy.greedy(task=task, data=data, print_out=False)
 
     # because the data used by greedy method is sorted, it cannot be used to find the indices of orders

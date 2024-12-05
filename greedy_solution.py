@@ -102,6 +102,7 @@ def greedy(task, data=None, print_out=False):
             all_satisfied = False   
         
         # analyze the utilization rate
+        utilization_rate = -1
         if satisfy_contraint:
             utilization_rate = (container_total_weight / max_weight + container_total_volume / max_volume + container_total_pallets / max_pallets) / 3
             rates.append(utilization_rate)
@@ -109,7 +110,7 @@ def greedy(task, data=None, print_out=False):
 
         output_message += "\n"
         
-        container = {'orders': container_items, 'weights': container_weights, 'volumes': container_volumes, 'pallets': container_pallets}
+        container = {'orders': container_items, 'weights': container_weights, 'volumes': container_volumes, 'pallets': container_pallets, 'rate': utilization_rate}
         solution.append(container)
 
         container_idx += 1
@@ -160,8 +161,13 @@ def greedy(task, data=None, print_out=False):
 def exceedLimit(cur_weight, cur_volume, cur_pallets, data, i):
     return cur_weight + data['weight'][i] > 45000 or cur_volume + data['volume'][i] > 3600 or cur_pallets + data['pallets'][i] > 60
 
-def testGreedy(task):
-    data = read_data.readSortedData(task=task, w=0, v=0, p=1, ascending=False, print_out=False)
+def testGreedy(task, w=1, v=1, p=1):
+    data = read_data.readSortedData(task=task, w=w, v=v, p=p, ascending=False, print_out=False)
+    solution, num_containers = greedy(task=task, data=data, print_out=False)
+    print(f"number of containers: {num_containers}")
+
+def utilizationRateBasedGreedy(task):
+    data = read_data.getUtilizationRateBasedSortedData(task=task, ascending=False, print_out=False)
     solution, num_containers = greedy(task=task, data=data, print_out=False)
     print(f"number of containers: {num_containers}")
 
@@ -194,4 +200,7 @@ def testBestGreedySolutions(task):
 
     return best_w, best_v, best_p
 
-testBestGreedySolutions('b')
+# utilizationRateBasedGreedy('a')
+# utilizationRateBasedGreedy('b')
+# testGreedy('a', w=1, v=201, p=1)
+# testGreedy('b', w=5, v=153, p=45)

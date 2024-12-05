@@ -68,6 +68,7 @@ def getRandomSolution(task, print_out=False):
             all_satisfied = False   
         
         # analyze the utilization rate
+        utilization_rate = -1
         if satisfy_contraint:
             utilization_rate = (container_weight / max_weight + container_volume / max_volume + container_pallets / max_pallets) / 3
             rates.append(utilization_rate)
@@ -75,7 +76,7 @@ def getRandomSolution(task, print_out=False):
 
         output_message += "\n"
         
-        container = {'orders': container_items, 'weight': container_weight, 'volume': container_volume, 'pallets': container_pallets}
+        container = {'orders': container_items, 'weights': weights, 'volumes': volumes, 'pallets': pallets, 'rate': utilization_rate}
         solution.append(container)
 
         container_idx += 1
@@ -135,4 +136,4 @@ def randomTest(task, test_times=100):
     print(f"Average number of containers in random solutions: {average: .2f}")
     return
 
-randomTest('b', 10000)
+# randomTest('b', 10000)
