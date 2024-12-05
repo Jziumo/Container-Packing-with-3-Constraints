@@ -1,0 +1,2352 @@
+Container 0:
+й└йд Orders packed: ['51959511', '67221914', '45398721', '65247190']
+й└йд Weight: 44315
+й└йд Volume: 3589
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9939
+
+Container 1:
+й└йд Orders packed: ['58755241', '75227433', '89309989', '25702298', '21039456']
+й└йд Weight: 44988
+й└йд Volume: 3583
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9983
+
+Container 2:
+й└йд Orders packed: ['77424112']
+й└йд Weight: 42593
+й└йд Volume: 643
+й└йд Pallets: 6
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4084
+
+Container 3:
+й└йд Orders packed: ['88960928']
+й└йд Weight: 41832
+й└йд Volume: 838
+й└йд Pallets: 8
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4319
+
+Container 4:
+й└йд Orders packed: ['70944508']
+й└йд Weight: 43893
+й└йд Volume: 1144
+й└йд Pallets: 1
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4366
+
+Container 5:
+й└йд Orders packed: ['22230853']
+й└йд Weight: 36374
+й└йд Volume: 1671
+й└йд Pallets: 3
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4408
+
+Container 6:
+й└йд Orders packed: ['90748645']
+й└йд Weight: 39298
+й└йд Volume: 1371
+й└йд Pallets: 12
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4847
+
+Container 7:
+й└йд Orders packed: ['73341105']
+й└йд Weight: 37885
+й└йд Volume: 1482
+й└йд Pallets: 6
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4512
+
+Container 8:
+й└йд Orders packed: ['11830395']
+й└йд Weight: 37812
+й└йд Volume: 1999
+й└йд Pallets: 7
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5041
+
+Container 9:
+й└йд Orders packed: ['52007731']
+й└йд Weight: 37999
+й└йд Volume: 855
+й└йд Pallets: 12
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4273
+
+Container 10:
+й└йд Orders packed: ['76803925']
+й└йд Weight: 40526
+й└йд Volume: 1688
+й└йд Pallets: 6
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4898
+
+Container 11:
+й└йд Orders packed: ['83161317']
+й└йд Weight: 33171
+й└йд Volume: 2267
+й└йд Pallets: 9
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5056
+
+Container 12:
+й└йд Orders packed: ['83958965']
+й└йд Weight: 35286
+й└йд Volume: 836
+й└йд Pallets: 36
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5388
+
+Container 13:
+й└йд Orders packed: ['90139478']
+й└йд Weight: 33479
+й└йд Volume: 1784
+й└йд Pallets: 16
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5021
+
+Container 14:
+й└йд Orders packed: ['62986822']
+й└йд Weight: 24718
+й└йд Volume: 3202
+й└йд Pallets: 10
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5351
+
+Container 15:
+й└йд Orders packed: ['68646201']
+й└йд Weight: 32945
+й└йд Volume: 1872
+й└йд Pallets: 16
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5063
+
+Container 16:
+й└йд Orders packed: ['88708842']
+й└йд Weight: 33469
+й└йд Volume: 2205
+й└йд Pallets: 16
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5410
+
+Container 17:
+й└йд Orders packed: ['76400344']
+й└йд Weight: 43802
+й└йд Volume: 54
+й└йд Pallets: 41
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5572
+
+Container 18:
+й└йд Orders packed: ['91708989']
+й└йд Weight: 32971
+й└йд Volume: 2038
+й└йд Pallets: 21
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5496
+
+Container 19:
+й└йд Orders packed: ['40188339']
+й└йд Weight: 35260
+й└йд Volume: 1613
+й└йд Pallets: 20
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5216
+
+Container 20:
+й└йд Orders packed: ['76273037']
+й└йд Weight: 39338
+й└йд Volume: 488
+й└йд Pallets: 41
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5644
+
+Container 21:
+й└йд Orders packed: ['81407369']
+й└йд Weight: 39687
+й└йд Volume: 1886
+й└йд Pallets: 18
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5686
+
+Container 22:
+й└йд Orders packed: ['11490628']
+й└йд Weight: 40008
+й└йд Volume: 910
+й└йд Pallets: 34
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5695
+
+Container 23:
+й└йд Orders packed: ['43752435']
+й└йд Weight: 36898
+й└йд Volume: 1653
+й└йд Pallets: 25
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5653
+
+Container 24:
+й└йд Orders packed: ['94453962']
+й└йд Weight: 33968
+й└йд Volume: 1539
+й└йд Pallets: 16
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4830
+
+Container 25:
+й└йд Orders packed: ['17410508']
+й└йд Weight: 28681
+й└йд Volume: 127
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5353
+
+Container 26:
+й└йд Orders packed: ['83678735']
+й└йд Weight: 34018
+й└йд Volume: 1936
+й└йд Pallets: 19
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5368
+
+Container 27:
+й└йд Orders packed: ['58793079']
+й└йд Weight: 32941
+й└йд Volume: 1907
+й└йд Pallets: 22
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5428
+
+Container 28:
+й└йд Orders packed: ['90629724']
+й└йд Weight: 31719
+й└йд Volume: 1814
+й└йд Pallets: 22
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5251
+
+Container 29:
+й└йд Orders packed: ['49016561']
+й└йд Weight: 42804
+й└йд Volume: 516
+й└йд Pallets: 41
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5926
+
+Container 30:
+й└йд Orders packed: ['76839857']
+й└йд Weight: 38599
+й└йд Volume: 3082
+й└йд Pallets: 4
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5935
+
+Container 31:
+й└йд Orders packed: ['91891647']
+й└йд Weight: 33039
+й└йд Volume: 1995
+й└йд Pallets: 28
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5850
+
+Container 32:
+й└йд Orders packed: ['54378683']
+й└йд Weight: 31610
+й└йд Volume: 1909
+й└йд Pallets: 26
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5554
+
+Container 33:
+й└йд Orders packed: ['56517394']
+й└йд Weight: 19652
+й└йд Volume: 1324
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6015
+
+Container 34:
+й└йд Orders packed: ['95324547']
+й└йд Weight: 36247
+й└йд Volume: 3398
+й└йд Pallets: 4
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6053
+
+Container 35:
+й└йд Orders packed: ['95691280']
+й└йд Weight: 29210
+й└йд Volume: 2806
+й└йд Pallets: 18
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5762
+
+Container 36:
+й└йд Orders packed: ['54188577']
+й└йд Weight: 30369
+й└йд Volume: 2113
+й└йд Pallets: 25
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5595
+
+Container 37:
+й└йд Orders packed: ['93765422']
+й└йд Weight: 28928
+й└йд Volume: 2220
+й└йд Pallets: 19
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5254
+
+Container 38:
+й└йд Orders packed: ['74274006']
+й└йд Weight: 36476
+й└йд Volume: 991
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5675
+
+Container 39:
+й└йд Orders packed: ['27831698']
+й└йд Weight: 32308
+й└йд Volume: 686
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6084
+
+Container 40:
+й└йд Orders packed: ['93251494']
+й└йд Weight: 31742
+й└йд Volume: 1569
+й└йд Pallets: 21
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4971
+
+Container 41:
+й└йд Orders packed: ['93855226']
+й└йд Weight: 40914
+й└йд Volume: 1803
+й└йд Pallets: 25
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6089
+
+Container 42:
+й└йд Orders packed: ['29783510']
+й└йд Weight: 31075
+й└йд Volume: 1909
+й└йд Pallets: 27
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5569
+
+Container 43:
+й└йд Orders packed: ['31113424']
+й└йд Weight: 29275
+й└йд Volume: 2470
+й└йд Pallets: 15
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5289
+
+Container 44:
+й└йд Orders packed: ['92202565']
+й└йд Weight: 34790
+й└йд Volume: 2162
+й└йд Pallets: 29
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6190
+
+Container 45:
+й└йд Orders packed: ['64817816']
+й└йд Weight: 26427
+й└йд Volume: 2822
+й└йд Pallets: 7
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.4959
+
+Container 46:
+й└йд Orders packed: ['38577486']
+й└йд Weight: 33130
+й└йд Volume: 2150
+й└йд Pallets: 31
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6167
+
+Container 47:
+й└йд Orders packed: ['28949197']
+й└йд Weight: 34653
+й└йд Volume: 2255
+й└йд Pallets: 28
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6210
+
+Container 48:
+й└йд Orders packed: ['75802557']
+й└йд Weight: 25663
+й└йд Volume: 2479
+й└йд Pallets: 26
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5641
+
+Container 49:
+й└йд Orders packed: ['89357542']
+й└йд Weight: 37123
+й└йд Volume: 1229
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5943
+
+Container 50:
+й└йд Orders packed: ['81845234']
+й└йд Weight: 30010
+й└йд Volume: 2038
+й└йд Pallets: 24
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5443
+
+Container 51:
+й└йд Orders packed: ['45391366']
+й└йд Weight: 27852
+й└йд Volume: 2199
+й└йд Pallets: 20
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5210
+
+Container 52:
+й└йд Orders packed: ['43791101']
+й└йд Weight: 33335
+й└йд Volume: 2290
+й└йд Pallets: 30
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6256
+
+Container 53:
+й└йд Orders packed: ['57479503']
+й└йд Weight: 34730
+й└йд Volume: 1937
+й└йд Pallets: 28
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5922
+
+Container 54:
+й└йд Orders packed: ['74479790']
+й└йд Weight: 30030
+й└йд Volume: 2443
+й└йд Pallets: 30
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6153
+
+Container 55:
+й└йд Orders packed: ['92664960']
+й└йд Weight: 41552
+й└йд Volume: 1923
+й└йд Pallets: 27
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6358
+
+Container 56:
+й└йд Orders packed: ['74322802']
+й└йд Weight: 44968
+й└йд Volume: 1240
+й└йд Pallets: 35
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6424
+
+Container 57:
+й└йд Orders packed: ['91690275']
+й└йд Weight: 31276
+й└йд Volume: 1564
+й└йд Pallets: 28
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5320
+
+Container 58:
+й└йд Orders packed: ['85236250']
+й└йд Weight: 31297
+й└йд Volume: 1973
+й└йд Pallets: 23
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5423
+
+Container 59:
+й└йд Orders packed: ['26695468']
+й└йд Weight: 40025
+й└йд Volume: 1751
+й└йд Pallets: 30
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6253
+
+Container 60:
+й└йд Orders packed: ['76910487']
+й└йд Weight: 26599
+й└йд Volume: 2420
+й└йд Pallets: 20
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5322
+
+Container 61:
+й└йд Orders packed: ['93754802']
+й└йд Weight: 41463
+й└йд Volume: 520
+й└йд Pallets: 53
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6497
+
+Container 62:
+й└йд Orders packed: ['31859676']
+й└йд Weight: 31050
+й└йд Volume: 2123
+й└йд Pallets: 36
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6266
+
+Container 63:
+й└йд Orders packed: ['89252984']
+й└йд Weight: 33623
+й└йд Volume: 2445
+й└йд Pallets: 32
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6532
+
+Container 64:
+й└йд Orders packed: ['56017398']
+й└йд Weight: 29725
+й└йд Volume: 2529
+й└йд Pallets: 31
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6266
+
+Container 65:
+й└йд Orders packed: ['14710252']
+й└йд Weight: 12008
+й└йд Volume: 3426
+й└йд Pallets: 45
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6562
+
+Container 66:
+й└йд Orders packed: ['72659241']
+й└йд Weight: 32708
+й└йд Volume: 433
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5713
+
+Container 67:
+й└йд Orders packed: ['22585950']
+й└йд Weight: 34698
+й└йд Volume: 2436
+й└йд Pallets: 31
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6548
+
+Container 68:
+й└йд Orders packed: ['95756060']
+й└йд Weight: 33506
+й└йд Volume: 3448
+й└йд Pallets: 17
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6619
+
+Container 69:
+й└йд Orders packed: ['70286807']
+й└йд Weight: 28710
+й└йд Volume: 2434
+й└йд Pallets: 29
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.5991
+
+Container 70:
+й└йд Orders packed: ['94230879']
+й└йд Weight: 35714
+й└йд Volume: 3148
+й└йд Pallets: 23
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6838
+
+Container 71:
+й└йд Orders packed: ['59427579']
+й└йд Weight: 38537
+й└йд Volume: 1758
+й└йд Pallets: 36
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6482
+
+Container 72:
+й└йд Orders packed: ['74224322']
+й└йд Weight: 40284
+й└йд Volume: 772
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6921
+
+Container 73:
+й└йд Orders packed: ['92896992', '47774250']
+й└йд Weight: 34626
+й└йд Volume: 2641
+й└йд Pallets: 24
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6344
+
+Container 74:
+й└йд Orders packed: ['38569876']
+й└йд Weight: 33733
+й└йд Volume: 2518
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6886
+
+Container 75:
+й└йд Orders packed: ['73085672']
+й└йд Weight: 34978
+й└йд Volume: 2300
+й└йд Pallets: 43
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7109
+
+Container 76:
+й└йд Orders packed: ['61095390']
+й└йд Weight: 36951
+й└йд Volume: 2851
+й└йд Pallets: 33
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7210
+
+Container 77:
+й└йд Orders packed: ['24915064']
+й└йд Weight: 42281
+й└йд Volume: 2900
+й└йд Pallets: 26
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7262
+
+Container 78:
+й└йд Orders packed: ['28954585']
+й└йд Weight: 34918
+й└йд Volume: 3391
+й└йд Pallets: 29
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7337
+
+Container 79:
+й└йд Orders packed: ['69069164']
+й└йд Weight: 31586
+й└йд Volume: 2530
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6738
+
+Container 80:
+й└йд Orders packed: ['76636214']
+й└йд Weight: 40246
+й└йд Volume: 2632
+й└йд Pallets: 35
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7363
+
+Container 81:
+й└йд Orders packed: ['88349496']
+й└йд Weight: 34799
+й└йд Volume: 2864
+й└йд Pallets: 40
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7452
+
+Container 82:
+й└йд Orders packed: ['88821066']
+й└йд Weight: 38849
+й└йд Volume: 2991
+й└йд Pallets: 33
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7480
+
+Container 83:
+й└йд Orders packed: ['49625080', '86473193']
+й└йд Weight: 44837
+й└йд Volume: 3309
+й└йд Pallets: 21
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7552
+
+Container 84:
+й└йд Orders packed: ['29183252']
+й└йд Weight: 37737
+й└йд Volume: 1564
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7577
+
+Container 85:
+й└йд Orders packed: ['59856278']
+й└йд Weight: 43086
+й└йд Volume: 2769
+й└йд Pallets: 33
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7589
+
+Container 86:
+й└йд Orders packed: ['78304670']
+й└йд Weight: 36693
+й└йд Volume: 2900
+й└йд Pallets: 40
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7625
+
+Container 87:
+й└йд Orders packed: ['42127697']
+й└йд Weight: 28769
+й└йд Volume: 2666
+й└йд Pallets: 31
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6322
+
+Container 88:
+й└йд Orders packed: ['85296118']
+й└йд Weight: 38263
+й└йд Volume: 2427
+й└йд Pallets: 48
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7748
+
+Container 89:
+й└йд Orders packed: ['23727728']
+й└йд Weight: 19383
+й└йд Volume: 3420
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7936
+
+Container 90:
+й└йд Orders packed: ['43118612']
+й└йд Weight: 29558
+й└йд Volume: 2851
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8052
+
+Container 91:
+й└йд Orders packed: ['94342581']
+й└йд Weight: 35838
+й└йд Volume: 3205
+й└йд Pallets: 45
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8122
+
+Container 92:
+й└йд Orders packed: ['94636052', '93047688']
+й└йд Weight: 43764
+й└йд Volume: 2597
+й└йд Pallets: 36
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7646
+
+Container 93:
+й└йд Orders packed: ['81553387', '83864489', '84230923']
+й└йд Weight: 44069
+й└йд Volume: 3286
+й└йд Pallets: 10
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6863
+
+Container 94:
+й└йд Orders packed: ['25172159', '20830316']
+й└йд Weight: 29899
+й└йд Volume: 2871
+й└йд Pallets: 41
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7151
+
+Container 95:
+й└йд Orders packed: ['73831628']
+й└йд Weight: 40606
+й└йд Volume: 3502
+й└йд Pallets: 36
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8250
+
+Container 96:
+й└йд Orders packed: ['50097028', '33758453']
+й└йд Weight: 37536
+й└йд Volume: 3585
+й└йд Pallets: 43
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8489
+
+Container 97:
+й└йд Orders packed: ['24396460', '34528642', '15517139']
+й└йд Weight: 44206
+й└йд Volume: 3334
+й└йд Pallets: 9
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6862
+
+Container 98:
+й└йд Orders packed: ['47362460', '84814522', '85178771']
+й└йд Weight: 40250
+й└йд Volume: 3428
+й└йд Pallets: 30
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7822
+
+Container 99:
+й└йд Orders packed: ['92969829', '38284690']
+й└йд Weight: 36950
+й└йд Volume: 3402
+й└йд Pallets: 40
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8109
+
+Container 100:
+й└йд Orders packed: ['74318249', '74386323', '35219401']
+й└йд Weight: 34854
+й└йд Volume: 3468
+й└йд Pallets: 46
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8348
+
+Container 101:
+й└йд Orders packed: ['87249409', '85731791']
+й└йд Weight: 41854
+й└йд Volume: 2928
+й└йд Pallets: 43
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8200
+
+Container 102:
+й└йд Orders packed: ['83303578', '41659420']
+й└йд Weight: 37554
+й└йд Volume: 3041
+й└йд Pallets: 22
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6820
+
+Container 103:
+й└йд Orders packed: ['57224041', '65682155']
+й└йд Weight: 40930
+й└йд Volume: 2997
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8251
+
+Container 104:
+й└йд Orders packed: ['87654946', '61798544', '35271392', '76109826']
+й└йд Weight: 42570
+й└йд Volume: 3327
+й└йд Pallets: 12
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.6901
+
+Container 105:
+й└йд Orders packed: ['79003940', '88018618']
+й└йд Weight: 34082
+й└йд Volume: 3120
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7469
+
+Container 106:
+й└йд Orders packed: ['88195561', '84964768']
+й└йд Weight: 43362
+й└йд Volume: 3398
+й└йд Pallets: 40
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8581
+
+Container 107:
+й└йд Orders packed: ['37151240', '64566630']
+й└йд Weight: 43396
+й└йд Volume: 3448
+й└йд Pallets: 30
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8074
+
+Container 108:
+й└йд Orders packed: ['89326707', '80485111', '20443053']
+й└йд Weight: 44567
+й└йд Volume: 3189
+й└йд Pallets: 40
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8476
+
+Container 109:
+й└йд Orders packed: ['73168405', '29185766', '26261641']
+й└йд Weight: 44819
+й└йд Volume: 3217
+й└йд Pallets: 33
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8132
+
+Container 110:
+й└йд Orders packed: ['86464691', '23700259']
+й└йд Weight: 39933
+й└йд Volume: 2785
+й└йд Pallets: 46
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8092
+
+Container 111:
+й└йд Orders packed: ['35768999']
+й└йд Weight: 43475
+й└йд Volume: 3564
+й└йд Pallets: 38
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8631
+
+Container 112:
+й└йд Orders packed: ['94700524', '61520681']
+й└йд Weight: 44562
+й└йд Volume: 3132
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8256
+
+Container 113:
+й└йд Orders packed: ['30648749', '16303914']
+й└йд Weight: 36459
+й└йд Volume: 3169
+й└йд Pallets: 47
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8246
+
+Container 114:
+й└йд Orders packed: ['38067641', '85896971']
+й└йд Weight: 43070
+й└йд Volume: 3244
+й└йд Pallets: 26
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7639
+
+Container 115:
+й└йд Orders packed: ['74692773', '74012404', '94077489']
+й└йд Weight: 44289
+й└йд Volume: 2980
+й└йд Pallets: 26
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7484
+
+Container 116:
+й└йд Orders packed: ['85318673', '84076063', '94677527']
+й└йд Weight: 44066
+й└йд Volume: 2623
+й└йд Pallets: 31
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7415
+
+Container 117:
+й└йд Orders packed: ['72726403', '85118671']
+й└йд Weight: 34825
+й└йд Volume: 3582
+й└йд Pallets: 28
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7452
+
+Container 118:
+й└йд Orders packed: ['29841919', '70654882']
+й└йд Weight: 43277
+й└йд Volume: 2475
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8386
+
+Container 119:
+й└йд Orders packed: ['92931090', '82028706']
+й└йд Weight: 41232
+й└йд Volume: 3105
+й└йд Pallets: 39
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8096
+
+Container 120:
+й└йд Orders packed: ['89897625', '88498575', '77262317']
+й└йд Weight: 34759
+й└йд Volume: 3478
+й└йд Pallets: 43
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8184
+
+Container 121:
+й└йд Orders packed: ['54884953', '76474021', '70684574']
+й└йд Weight: 44873
+й└йд Volume: 3052
+й└йд Pallets: 41
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8428
+
+Container 122:
+й└йд Orders packed: ['40701903', '56476013', '93619372']
+й└йд Weight: 41231
+й└йд Volume: 3411
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8657
+
+Container 123:
+й└йд Orders packed: ['82513588', '75920615', '18468580']
+й└йд Weight: 39675
+й└йд Volume: 3504
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8628
+
+Container 124:
+й└йд Orders packed: ['62639528', '29525445', '96505775', '54438148', '36587984']
+й└йд Weight: 39677
+й└йд Volume: 3335
+й└йд Pallets: 38
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8138
+
+Container 125:
+й└йд Orders packed: ['83007689', '20590854', '61985375']
+й└йд Weight: 44271
+й└йд Volume: 2480
+й└йд Pallets: 32
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7353
+
+Container 126:
+й└йд Orders packed: ['91336127', '29214309', '44359987', '93374760']
+й└йд Weight: 41347
+й└йд Volume: 3165
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8438
+
+Container 127:
+й└йд Orders packed: ['43343799', '67326549']
+й└йд Weight: 42910
+й└йд Volume: 3345
+й└йд Pallets: 31
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7998
+
+Container 128:
+й└йд Orders packed: ['57304062', '47651903']
+й└йд Weight: 40709
+й└йд Volume: 2965
+й└йд Pallets: 50
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8539
+
+Container 129:
+й└йд Orders packed: ['44361973', '23292627', '64907228']
+й└йд Weight: 39402
+й└йд Volume: 3480
+й└йд Pallets: 42
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8474
+
+Container 130:
+й└йд Orders packed: ['82995021', '55707924', '87358579']
+й└йд Weight: 33810
+й└йд Volume: 3285
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8713
+
+Container 131:
+й└йд Orders packed: ['88666830', '43682968']
+й└йд Weight: 37211
+й└йд Volume: 2494
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7510
+
+Container 132:
+й└йд Orders packed: ['20671285', '91475874']
+й└йд Weight: 38858
+й└йд Volume: 2889
+й└йд Pallets: 49
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8276
+
+Container 133:
+й└йд Orders packed: ['83793674', '11287205', '11457722', '84665367', '74431224', '11381536']
+й└йд Weight: 42229
+й└йд Volume: 3433
+й└йд Pallets: 34
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8196
+
+Container 134:
+й└йд Orders packed: ['95582218', '30886297', '74677479']
+й└йд Weight: 43377
+й└йд Volume: 2603
+й└йд Pallets: 47
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8234
+
+Container 135:
+й└йд Orders packed: ['54230925', '90395250', '43600676']
+й└йд Weight: 44167
+й└йд Volume: 3493
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8561
+
+Container 136:
+й└йд Orders packed: ['90313921', '47572136']
+й└йд Weight: 41300
+й└йд Volume: 3481
+й└йд Pallets: 40
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8505
+
+Container 137:
+й└йд Orders packed: ['40604676', '73944561', '83389159']
+й└йд Weight: 41644
+й└йд Volume: 3142
+й└йд Pallets: 37
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8050
+
+Container 138:
+й└йд Orders packed: ['61196577', '39317113', '89824466']
+й└йд Weight: 42510
+й└йд Volume: 3514
+й└йд Pallets: 33
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8236
+
+Container 139:
+й└йд Orders packed: ['68474125', '87941529', '88693256']
+й└йд Weight: 38821
+й└йд Volume: 3332
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8794
+
+Container 140:
+й└йд Orders packed: ['51226204', '88185945', '90179832']
+й└йд Weight: 44465
+й└йд Volume: 3188
+й└йд Pallets: 38
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8357
+
+Container 141:
+й└йд Orders packed: ['96536743', '37730242', '86326745']
+й└йд Weight: 41726
+й└йд Volume: 3498
+й└йд Pallets: 43
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8719
+
+Container 142:
+й└йд Orders packed: ['93816485', '88970241', '73533710']
+й└йд Weight: 40863
+й└йд Volume: 2668
+й└йд Pallets: 45
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7997
+
+Container 143:
+й└йд Orders packed: ['94276181', '55162125', '86385504']
+й└йд Weight: 44116
+й└йд Volume: 3553
+й└йд Pallets: 33
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8391
+
+Container 144:
+й└йд Orders packed: ['25034901', '86619419', '98128588', '74219723']
+й└йд Weight: 39752
+й└йд Volume: 2509
+й└йд Pallets: 48
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.7934
+
+Container 145:
+й└йд Orders packed: ['64486195', '76153477', '54907431']
+й└йд Weight: 43786
+й└йд Volume: 3558
+й└йд Pallets: 43
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8927
+
+Container 146:
+й└йд Orders packed: ['89833928', '58044569']
+й└йд Weight: 39911
+й└йд Volume: 3387
+й└йд Pallets: 40
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8315
+
+Container 147:
+й└йд Orders packed: ['45848286', '25448434', '90972832', '30982070']
+й└йд Weight: 43910
+й└йд Volume: 3284
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8738
+
+Container 148:
+й└йд Orders packed: ['82310839', '71880619', '70260425']
+й└йд Weight: 43136
+й└йд Volume: 2782
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8216
+
+Container 149:
+й└йд Orders packed: ['75665956', '89089951']
+й└йд Weight: 44792
+й└йд Volume: 3406
+й└йд Pallets: 45
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8972
+
+Container 150:
+й└йд Orders packed: ['87430422', '53138022']
+й└йд Weight: 38064
+й└йд Volume: 3452
+й└йд Pallets: 39
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8183
+
+Container 151:
+й└йд Orders packed: ['30039696', '73041789', '35061105', '31148941']
+й└йд Weight: 40611
+й└йд Volume: 3567
+й└йд Pallets: 41
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8589
+
+Container 152:
+й└йд Orders packed: ['36314564', '97560046', '75078490']
+й└йд Weight: 35107
+й└йд Volume: 3503
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8677
+
+Container 153:
+й└йд Orders packed: ['28714744', '88604365']
+й└йд Weight: 36227
+й└йд Volume: 3488
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9024
+
+Container 154:
+й└йд Orders packed: ['14996486', '31316251', '75012827']
+й└йд Weight: 42321
+й└йд Volume: 3409
+й└йд Pallets: 41
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8569
+
+Container 155:
+й└йд Orders packed: ['28935702', '37174499']
+й└йд Weight: 41564
+й└йд Volume: 2835
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9037
+
+Container 156:
+й└йд Orders packed: ['91224413', '91414212', '81139859']
+й└йд Weight: 39781
+й└йд Volume: 3514
+й└йд Pallets: 50
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8978
+
+Container 157:
+й└йд Orders packed: ['56463921', '89843404']
+й└йд Weight: 44021
+й└йд Volume: 3179
+й└йд Pallets: 46
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8760
+
+Container 158:
+й└йд Orders packed: ['47155263', '65660179', '98741704', '88288793', '25745413']
+й└йд Weight: 41511
+й└йд Volume: 3066
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9080
+
+Container 159:
+й└йд Orders packed: ['54171985', '50135985', '71307112', '83356749']
+й└йд Weight: 40661
+й└йд Volume: 3395
+й└йд Pallets: 53
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9100
+
+Container 160:
+й└йд Orders packed: ['28023503', '51236342']
+й└йд Weight: 43592
+й└йд Volume: 3410
+й└йд Pallets: 49
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9109
+
+Container 161:
+й└йд Orders packed: ['45687868', '53922630']
+й└йд Weight: 42940
+й└йд Volume: 3072
+й└йд Pallets: 39
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8192
+
+Container 162:
+й└йд Orders packed: ['94823021', '73960768', '23227402']
+й└йд Weight: 44397
+й└йд Volume: 3419
+й└йд Pallets: 43
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8843
+
+Container 163:
+й└йд Orders packed: ['20531646', '57967402']
+й└йд Weight: 43131
+й└йд Volume: 2201
+й└йд Pallets: 53
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8177
+
+Container 164:
+й└йд Orders packed: ['87981724', '58009674']
+й└йд Weight: 37322
+й└йд Volume: 3251
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9108
+
+Container 165:
+й└йд Orders packed: ['75284311', '81060601', '26100560']
+й└йд Weight: 43173
+й└йд Volume: 2831
+й└йд Pallets: 50
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8597
+
+Container 166:
+й└йд Orders packed: ['71406992', '55049695', '11097901', '95388961', '98684649', '67122633']
+й└йд Weight: 42516
+й└йд Volume: 3308
+й└йд Pallets: 50
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8990
+
+Container 167:
+й└йд Orders packed: ['76002209', '85546087']
+й└йд Weight: 44272
+й└йд Volume: 3419
+й└йд Pallets: 46
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9001
+
+Container 168:
+й└йд Orders packed: ['92661595', '41312740', '86700066', '83629497']
+й└йд Weight: 43906
+й└йд Volume: 2624
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8793
+
+Container 169:
+й└йд Orders packed: ['41051951', '87927610', '82198157']
+й└йд Weight: 41634
+й└йд Volume: 3162
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8901
+
+Container 170:
+й└йд Orders packed: ['93532156', '88588001', '81816913', '94147522', '17511338']
+й└йд Weight: 43747
+й└йд Volume: 3249
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9082
+
+Container 171:
+й└йд Orders packed: ['17774452', '72869889', '18069445', '91646011']
+й└йд Weight: 44771
+й└йд Volume: 3549
+й└йд Pallets: 46
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9158
+
+Container 172:
+й└йд Orders packed: ['85536584', '83943248']
+й└йд Weight: 44933
+й└йд Volume: 3400
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8921
+
+Container 173:
+й└йд Orders packed: ['76899081', '95634329']
+й└йд Weight: 41789
+й└йд Volume: 3551
+й└йд Pallets: 45
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8883
+
+Container 174:
+й└йд Orders packed: ['88301013', '53698829']
+й└йд Weight: 43748
+й└йд Volume: 3467
+й└йд Pallets: 44
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8895
+
+Container 175:
+й└йд Orders packed: ['30868454', '22559789', '40420974']
+й└йд Weight: 44513
+й└йд Volume: 2966
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8932
+
+Container 176:
+й└йд Orders packed: ['83188962', '92435895']
+й└йд Weight: 44792
+й└йд Volume: 3017
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9167
+
+Container 177:
+й└йд Orders packed: ['83860574', '90460062', '44893550', '95493479']
+й└йд Weight: 44949
+й└йд Volume: 3416
+й└йд Pallets: 48
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9159
+
+Container 178:
+й└йд Orders packed: ['96413897', '88275886']
+й└йд Weight: 44680
+й└йд Volume: 3002
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9256
+
+Container 179:
+й└йд Orders packed: ['81572573', '98676826', '77096983', '84333085', '87060902']
+й└йд Weight: 37599
+й└йд Volume: 3150
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8591
+
+Container 180:
+й└йд Orders packed: ['19275061', '75553143', '73644768', '78723986']
+й└йд Weight: 43068
+й└йд Volume: 3368
+й└йд Pallets: 39
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8475
+
+Container 181:
+й└йд Orders packed: ['60611567', '83528024']
+й└йд Weight: 44717
+й└йд Volume: 3334
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9233
+
+Container 182:
+й└йд Orders packed: ['55175927', '73128713', '13671643']
+й└йд Weight: 38516
+й└йд Volume: 3113
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8569
+
+Container 183:
+й└йд Orders packed: ['46691434', '83455928', '82360815']
+й└йд Weight: 39447
+й└йд Volume: 2277
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8086
+
+Container 184:
+й└йд Orders packed: ['21129473', '24746651', '51374865', '74657577']
+й└йд Weight: 43991
+й└йд Volume: 3583
+й└йд Pallets: 49
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9298
+
+Container 185:
+й└йд Orders packed: ['88721169', '95924279', '50218071']
+й└йд Weight: 41880
+й└йд Volume: 3575
+й└йд Pallets: 45
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8912
+
+Container 186:
+й└йд Orders packed: ['22513207', '13043675']
+й└йд Weight: 39483
+й└йд Volume: 3340
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9184
+
+Container 187:
+й└йд Orders packed: ['82306983', '75571926']
+й└йд Weight: 37756
+й└йд Volume: 3518
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9332
+
+Container 188:
+й└йд Orders packed: ['32588901', '35744676', '92474608']
+й└йд Weight: 42809
+й└йд Volume: 3537
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9335
+
+Container 189:
+й└йд Orders packed: ['73428853', '87617056', '93713908', '96879739']
+й└йд Weight: 39512
+й└йд Volume: 3446
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8951
+
+Container 190:
+й└йд Orders packed: ['15362668', '78405802', '45878017', '48079506', '75645620']
+й└йд Weight: 44976
+й└йд Volume: 3415
+й└йд Pallets: 48
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9160
+
+Container 191:
+й└йд Orders packed: ['41060556', '74404621', '89772017']
+й└йд Weight: 42514
+й└йд Volume: 3116
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8923
+
+Container 192:
+й└йд Orders packed: ['22000216', '92961659']
+й└йд Weight: 42220
+й└йд Volume: 3570
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9266
+
+Container 193:
+й└йд Orders packed: ['80598556', '71578749']
+й└йд Weight: 43158
+й└йд Volume: 3462
+й└йд Pallets: 53
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9347
+
+Container 194:
+й└йд Orders packed: ['96757066', '74578173']
+й└йд Weight: 43261
+й└йд Volume: 3044
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9356
+
+Container 195:
+й└йд Orders packed: ['64340223', '82441193', '88074177', '56155991']
+й└йд Weight: 43601
+й└йд Volume: 3263
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9362
+
+Container 196:
+й└йд Orders packed: ['17907665', '93337374']
+й└йд Weight: 43746
+й└йд Volume: 3539
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9406
+
+Container 197:
+й└йд Orders packed: ['52090828', '93686301']
+й└йд Weight: 44241
+й└йд Volume: 3198
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9127
+
+Container 198:
+й└йд Orders packed: ['87189846', '77742641']
+й└йд Weight: 36737
+й└йд Volume: 3285
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8930
+
+Container 199:
+й└йд Orders packed: ['93913528', '33326815']
+й└йд Weight: 44007
+й└йд Volume: 3500
+й└йд Pallets: 49
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9223
+
+Container 200:
+й└йд Orders packed: ['76429146', '39967982', '99824259']
+й└йд Weight: 43697
+й└йд Volume: 3599
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9403
+
+Container 201:
+й└йд Orders packed: ['83104403', '13078494', '26271229']
+й└йд Weight: 44345
+й└йд Volume: 3511
+й└йд Pallets: 49
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9258
+
+Container 202:
+й└йд Orders packed: ['58810469', '91728749', '78870693']
+й└йд Weight: 44766
+й└йд Volume: 3545
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9432
+
+Container 203:
+й└йд Orders packed: ['74620619', '37267436', '89603312']
+й└йд Weight: 43474
+й└йд Volume: 3592
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9435
+
+Container 204:
+й└йд Orders packed: ['34778476', '27350399', '83548990']
+й└йд Weight: 35447
+й└йд Volume: 3584
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9222
+
+Container 205:
+й└йд Orders packed: ['42325351', '73506142', '40901354', '97067091']
+й└йд Weight: 38129
+й└йд Volume: 3362
+й└йд Pallets: 53
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.8882
+
+Container 206:
+й└йд Orders packed: ['73418953', '45255933', '58966648', '34284905']
+й└йд Weight: 43353
+й└йд Volume: 3304
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9104
+
+Container 207:
+й└йд Orders packed: ['49942201', '55052191', '85832094']
+й└йд Weight: 43670
+й└йд Volume: 3485
+й└йд Pallets: 53
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9406
+
+Container 208:
+й└йд Orders packed: ['89450551', '71192542']
+й└йд Weight: 42478
+й└йд Volume: 3504
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9447
+
+Container 209:
+й└йд Orders packed: ['90625561', '38662632', '45727112', '28907507', '68793187']
+й└йд Weight: 43734
+й└йд Volume: 3470
+й└йд Pallets: 50
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9230
+
+Container 210:
+й└йд Orders packed: ['77126784', '42239109', '87348561', '10360462']
+й└йд Weight: 42778
+й└йд Volume: 3511
+й└йд Pallets: 51
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9253
+
+Container 211:
+й└йд Orders packed: ['94123478', '22384445']
+й└йд Weight: 43191
+й└йд Volume: 3183
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9480
+
+Container 212:
+й└йд Orders packed: ['94835482', '88848769']
+й└йд Weight: 44957
+й└йд Volume: 3402
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9480
+
+Container 213:
+й└йд Orders packed: ['88009879', '13330612', '75469684']
+й└йд Weight: 43070
+й└йд Volume: 3472
+й└йд Pallets: 50
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9183
+
+Container 214:
+й└йд Orders packed: ['46847587', '89698602']
+й└йд Weight: 44575
+й└йд Volume: 3570
+й└йд Pallets: 52
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9496
+
+Container 215:
+й└йд Orders packed: ['65689064', '53008046']
+й└йд Weight: 40259
+й└йд Volume: 3556
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9497
+
+Container 216:
+й└йд Orders packed: ['89664243', '86882948', '77330809', '71315887', '35749913', '13813473', '62952966']
+й└йд Weight: 43304
+й└йд Volume: 3389
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9401
+
+Container 217:
+й└йд Orders packed: ['84918834', '95984497', '97817472']
+й└йд Weight: 43758
+й└йд Volume: 3536
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9515
+
+Container 218:
+й└йд Orders packed: ['85588445', '87449606', '85065108', '16089306']
+й└йд Weight: 43596
+й└йд Volume: 3250
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9516
+
+Container 219:
+й└йд Orders packed: ['76435473', '91890939', '66051098', '53376357', '74543781']
+й└йд Weight: 39500
+й└йд Volume: 3427
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9210
+
+Container 220:
+й└йд Orders packed: ['99562480', '29592981', '75628458']
+й└йд Weight: 44417
+й└йд Volume: 3501
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9532
+
+Container 221:
+й└йд Orders packed: ['94064110', '88842130']
+й└йд Weight: 44495
+й└йд Volume: 3559
+й└йд Pallets: 53
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9536
+
+Container 222:
+й└йд Orders packed: ['59116773', '73907263']
+й└йд Weight: 39645
+й└йд Volume: 3588
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9537
+
+Container 223:
+й└йд Orders packed: ['25485706', '52442794']
+й└йд Weight: 44019
+й└йд Volume: 3546
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9544
+
+Container 224:
+й└йд Orders packed: ['12541366', '15565305']
+й└йд Weight: 43393
+й└йд Volume: 3267
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9517
+
+Container 225:
+й└йд Orders packed: ['48823764', '35200537', '56892219']
+й└йд Weight: 44843
+й└йд Volume: 3506
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9568
+
+Container 226:
+й└йд Orders packed: ['89897615', '90967082', '44615080', '90961227', '51693795']
+й└йд Weight: 44007
+й└йд Volume: 3359
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9592
+
+Container 227:
+й└йд Orders packed: ['45228785', '64578195', '95240409']
+й└йд Weight: 44607
+й└йд Volume: 3439
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9488
+
+Container 228:
+й└йд Orders packed: ['83001249', '43648566']
+й└йд Weight: 43778
+й└йд Volume: 3573
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9607
+
+Container 229:
+й└йд Orders packed: ['83383640', '75655210']
+й└йд Weight: 40595
+й└йд Volume: 3593
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9612
+
+Container 230:
+й└йд Orders packed: ['83294300', '74790348']
+й└йд Weight: 43350
+й└йд Volume: 3565
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9623
+
+Container 231:
+й└йд Orders packed: ['21757191', '41712370', '90942164']
+й└йд Weight: 44748
+й└йд Volume: 3575
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9625
+
+Container 232:
+й└йд Orders packed: ['56159148', '49349775', '33647569']
+й└йд Weight: 42970
+й└йд Volume: 3419
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9626
+
+Container 233:
+й└йд Orders packed: ['11093440', '93126763']
+й└йд Weight: 42280
+й└йд Volume: 3426
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9637
+
+Container 234:
+й└йд Orders packed: ['28204730', '39825791', '75301268']
+й└йд Weight: 43360
+й└йд Volume: 3498
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9617
+
+Container 235:
+й└йд Orders packed: ['99951826', '49674740']
+й└йд Weight: 44844
+й└йд Volume: 3589
+й└йд Pallets: 54
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9645
+
+Container 236:
+й└йд Orders packed: ['61704862', '50099370', '20187442', '77547998', '92026032']
+й└йд Weight: 41091
+й└йд Volume: 3537
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9541
+
+Container 237:
+й└йд Orders packed: ['43203808', '90427660', '60594081']
+й└йд Weight: 43657
+й└йд Volume: 3576
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9656
+
+Container 238:
+й└йд Orders packed: ['89972223', '94219781']
+й└йд Weight: 42186
+й└йд Volume: 3586
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9667
+
+Container 239:
+й└йд Orders packed: ['69570061', '89521153', '94056916']
+й└йд Weight: 40795
+й└йд Volume: 3530
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9513
+
+Container 240:
+й└йд Orders packed: ['85585971', '90838453', '87498016', '89673485']
+й└йд Weight: 44728
+й└йд Volume: 3565
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9670
+
+Container 241:
+й└йд Orders packed: ['13423472', '84659773']
+й└йд Weight: 41393
+й└йд Volume: 3534
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9672
+
+Container 242:
+й└йд Orders packed: ['67915403', '73365392', '30246758']
+й└йд Weight: 44482
+й└йд Volume: 3593
+й└йд Pallets: 55
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9677
+
+Container 243:
+й└йд Orders packed: ['75785562', '27495674']
+й└йд Weight: 44388
+й└йд Volume: 3481
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9678
+
+Container 244:
+й└йд Orders packed: ['96542602', '75675949']
+й└йд Weight: 43807
+й└йд Volume: 3408
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9678
+
+Container 245:
+й└йд Orders packed: ['72154526', '30407324', '55340500']
+й└йд Weight: 43870
+й└йд Volume: 3588
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9683
+
+Container 246:
+й└йд Orders packed: ['96290440', '85339247', '83475885', '18312530']
+й└йд Weight: 44493
+й└йд Volume: 3539
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9684
+
+Container 247:
+й└йд Orders packed: ['94386795', '37880472', '39016579']
+й└йд Weight: 41941
+й└йд Volume: 3523
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9647
+
+Container 248:
+й└йд Orders packed: ['12569243', '63414978']
+й└йд Weight: 43685
+й└йд Volume: 3504
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9703
+
+Container 249:
+й└йд Orders packed: ['85970836', '91749539', '92678679']
+й└йд Weight: 42938
+й└йд Volume: 3504
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9703
+
+Container 250:
+й└йд Orders packed: ['42231034', '95355299']
+й└йд Weight: 41839
+й└йд Volume: 3544
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9714
+
+Container 251:
+й└йд Orders packed: ['53292435', '83821078', '68985650']
+й└йд Weight: 44711
+й└йд Volume: 3560
+й└йд Pallets: 56
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9719
+
+Container 252:
+й└йд Orders packed: ['42882205', '55028239', '94570748']
+й└йд Weight: 42182
+й└йд Volume: 3564
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9591
+
+Container 253:
+й└йд Orders packed: ['32522171', '90459684']
+й└йд Weight: 44941
+й└йд Volume: 3486
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9723
+
+Container 254:
+й└йд Orders packed: ['45958723', '44317668', '47231795']
+й└йд Weight: 44595
+й└йд Volume: 3455
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9725
+
+Container 255:
+й└йд Orders packed: ['84723237', '82249015']
+й└йд Weight: 44573
+й└йд Volume: 3474
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9741
+
+Container 256:
+й└йд Orders packed: ['56669300', '49655822', '81321032', '37355174']
+й└йд Weight: 44738
+й└йд Volume: 3403
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9743
+
+Container 257:
+й└йд Orders packed: ['73921012', '41670666', '85119040', '87846175', '46395501']
+й└йд Weight: 41848
+й└йд Volume: 3588
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9755
+
+Container 258:
+й└йд Orders packed: ['58557893', '59811698', '40652083']
+й└йд Weight: 42969
+й└йд Volume: 3503
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9760
+
+Container 259:
+й└йд Orders packed: ['95345587', '33102147', '74949776']
+й└йд Weight: 44685
+й└йд Volume: 3368
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9762
+
+Container 260:
+й└йд Orders packed: ['54930836', '17610240', '89551389']
+й└йд Weight: 44592
+й└йд Volume: 3380
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9766
+
+Container 261:
+й└йд Orders packed: ['99930842', '41738910', '52893203']
+й└йд Weight: 44954
+й└йд Volume: 3473
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9768
+
+Container 262:
+й└йд Orders packed: ['26492002', '95904906', '40029520', '55453965']
+й└йд Weight: 44969
+й└йд Volume: 3472
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9768
+
+Container 263:
+й└йд Orders packed: ['19058548', '85306604']
+й└йд Weight: 44745
+й└йд Volume: 3552
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9770
+
+Container 264:
+й└йд Orders packed: ['57590712', '77040825', '34042247', '87980578', '49091188']
+й└йд Weight: 42651
+й└йд Volume: 3600
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9770
+
+Container 265:
+й└йд Orders packed: ['39331631', '75651524']
+й└йд Weight: 42681
+й└йд Volume: 3538
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9771
+
+Container 266:
+й└йд Orders packed: ['77417648', '58106041', '16872889']
+й└йд Weight: 44243
+й└йд Volume: 3599
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9776
+
+Container 267:
+й└йд Orders packed: ['89649059', '84616750', '73956919']
+й└йд Weight: 44035
+й└йд Volume: 3558
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9779
+
+Container 268:
+й└йд Orders packed: ['80055594', '16055716', '74878985', '65534534']
+й└йд Weight: 44274
+й└йд Volume: 3544
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9783
+
+Container 269:
+й└йд Orders packed: ['13498139', '93864917', '33846915']
+й└йд Weight: 44855
+й└йд Volume: 3559
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9785
+
+Container 270:
+й└йд Orders packed: ['17708789', '61665344', '96256394']
+й└йд Weight: 44933
+й└йд Volume: 3439
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9790
+
+Container 271:
+й└йд Orders packed: ['87714364', '27568525']
+й└йд Weight: 43567
+й└йд Volume: 3554
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9796
+
+Container 272:
+й└йд Orders packed: ['22289559', '19702106', '74394137', '24769811']
+й└йд Weight: 43614
+й└йд Volume: 3557
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9802
+
+Container 273:
+й└йд Orders packed: ['89010704', '83650563', '30780674']
+й└йд Weight: 44826
+й└йд Volume: 3596
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9817
+
+Container 274:
+й└йд Orders packed: ['88709344', '97808076']
+й└йд Weight: 42718
+й└йд Volume: 3587
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9819
+
+Container 275:
+й└йд Orders packed: ['62123461', '76188602']
+й└йд Weight: 43815
+й└йд Volume: 3500
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9820
+
+Container 276:
+й└йд Orders packed: ['29597752', '13495136', '35855033', '66527676']
+й└йд Weight: 44936
+й└йд Volume: 3591
+й└йд Pallets: 57
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9820
+
+Container 277:
+й└йд Orders packed: ['13730217', '74163214']
+й└йд Weight: 44412
+й└йд Volume: 3584
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9831
+
+Container 278:
+й└йд Orders packed: ['80458451', '73499381']
+й└йд Weight: 44492
+й└йд Volume: 3578
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9831
+
+Container 279:
+й└йд Orders packed: ['57235304', '96922646', '90287868', '71669758']
+й└йд Weight: 44221
+й└йд Volume: 3547
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9838
+
+Container 280:
+й└йд Orders packed: ['10142046', '74775796', '94457179', '91438554']
+й└йд Weight: 44880
+й└йд Volume: 3443
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9846
+
+Container 281:
+й└йд Orders packed: ['83417007', '64799030', '22073771', '56970467']
+й└йд Weight: 44839
+й└йд Volume: 3507
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9846
+
+Container 282:
+й└йд Orders packed: ['78786702', '34719336', '28478121']
+й└йд Weight: 44485
+й└йд Volume: 3503
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9816
+
+Container 283:
+й└йд Orders packed: ['58488661', '93223646', '77562238']
+й└йд Weight: 43979
+й└йд Volume: 3582
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9852
+
+Container 284:
+й└йд Orders packed: ['49021766', '50245609', '36340624']
+й└йд Weight: 44887
+й└йд Volume: 3577
+й└йд Pallets: 58
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9859
+
+Container 285:
+й└йд Orders packed: ['83731454', '15197796', '59072266']
+й└йд Weight: 44107
+й└йд Volume: 3590
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9869
+
+Container 286:
+й└йд Orders packed: ['99918938', '24976285', '90358335']
+й└йд Weight: 43760
+й└йд Volume: 3562
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9873
+
+Container 287:
+й└йд Orders packed: ['29800110', '91612246', '21580901', '76988534']
+й└йд Weight: 44323
+й└йд Volume: 3520
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9876
+
+Container 288:
+й└йд Orders packed: ['90571742', '54166405', '84890867', '30654749', '65674858', '21535141']
+й└йд Weight: 44279
+й└йд Volume: 3527
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9879
+
+Container 289:
+й└йд Orders packed: ['83423741', '89884811', '70590586', '25109477']
+й└йд Weight: 43422
+й└йд Volume: 3597
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9880
+
+Container 290:
+й└йд Orders packed: ['75595311', '66034910', '47936445']
+й└йд Weight: 44709
+й└йд Volume: 3590
+й└йд Pallets: 59
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9914
+
+Container 291:
+й└йд Orders packed: ['38127748', '65041891', '86187991', '18052111', '91780199']
+й└йд Weight: 44956
+й└йд Volume: 3519
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9922
+
+Container 292:
+й└йд Orders packed: ['28164157', '45959572', '92355704', '84937771']
+й└йд Weight: 44560
+й└йд Volume: 3561
+й└йд Pallets: 60
+й└йд (satisfies the capacity constraints)
+й╕йд Average utilization rate of the container:  0.9931
+
+Total analysis: 
+й└йд Total number of containers used: 293
+й└йд Utilization rate
+йж  й└йд weight rate:  0.8923
+йж  й└йд volume rate:  0.8212
+йж  й└йд pallets rate:  0.7251
+йж  й╕йд total:  0.8129
+й╕йд All containers satisfy the capacity constraints.

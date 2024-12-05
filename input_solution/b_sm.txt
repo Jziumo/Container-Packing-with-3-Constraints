@@ -1,0 +1,3432 @@
+Container 0:
+���� Orders packed: ['82101551', '60746003', '54489837']
+���� Weight: 42029
+���� Volume: 2923
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8820
+
+Container 1:
+���� Orders packed: ['47070106', '52604648', '33279727']
+���� Weight: 44642
+���� Volume: 3517
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8174
+
+Container 2:
+���� Orders packed: ['29831965', '66862380', '42438659']
+���� Weight: 41161
+���� Volume: 3001
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8439
+
+Container 3:
+���� Orders packed: ['59165780', '77304585', '43393299', '83007412', '65025406']
+���� Weight: 42785
+���� Volume: 3418
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8445
+
+Container 4:
+���� Orders packed: ['72305423', '54990349', '55651695', '61932441']
+���� Weight: 44175
+���� Volume: 2897
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8455
+
+Container 5:
+���� Orders packed: ['22624161', '22243992']
+���� Weight: 37328
+���� Volume: 3549
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8496
+
+Container 6:
+���� Orders packed: ['46560674', '51539579', '84230923']
+���� Weight: 33195
+���� Volume: 3525
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8501
+
+Container 7:
+���� Orders packed: ['83423741', '18409692', '45440629']
+���� Weight: 39808
+���� Volume: 3361
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8505
+
+Container 8:
+���� Orders packed: ['33279803', '52265901', '83455928', '97738896', '51413272']
+���� Weight: 43950
+���� Volume: 3278
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8513
+
+Container 9:
+���� Orders packed: ['32189533', '83528024', '15579840']
+���� Weight: 43775
+���� Volume: 3537
+���� Pallets: 36
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8518
+
+Container 10:
+���� Orders packed: ['54755261', '64588845', '24111998']
+���� Weight: 39951
+���� Volume: 3382
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8535
+
+Container 11:
+���� Orders packed: ['12784328', '18093383', '57455232', '74657577', '32843121']
+���� Weight: 43990
+���� Volume: 3424
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8540
+
+Container 12:
+���� Orders packed: ['99380211', '98643627', '71068074', '51373819']
+���� Weight: 40413
+���� Volume: 3010
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8558
+
+Container 13:
+���� Orders packed: ['95493479', '70750651', '45881067', '74012404']
+���� Weight: 43351
+���� Volume: 3496
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8559
+
+Container 14:
+���� Orders packed: ['35514465', '31298954', '45936276']
+���� Weight: 44617
+���� Volume: 2678
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8562
+
+Container 15:
+���� Orders packed: ['71610415', '52940155', '95240409']
+���� Weight: 38510
+���� Volume: 3109
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8565
+
+Container 16:
+���� Orders packed: ['77526127', '38951074', '34789292']
+���� Weight: 43020
+���� Volume: 2874
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8570
+
+Container 17:
+���� Orders packed: ['77378782', '27832010', '23777783']
+���� Weight: 38524
+���� Volume: 3538
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8574
+
+Container 18:
+���� Orders packed: ['36636627', '96922646']
+���� Weight: 38563
+���� Volume: 3476
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8575
+
+Container 19:
+���� Orders packed: ['16405613', '49997428']
+���� Weight: 43833
+���� Volume: 3057
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8577
+
+Container 20:
+���� Orders packed: ['92474608', '66586786']
+���� Weight: 35233
+���� Volume: 3509
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8581
+
+Container 21:
+���� Orders packed: ['32188044', '62639816', '20553079']
+���� Weight: 44674
+���� Volume: 3237
+���� Pallets: 41
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8584
+
+Container 22:
+���� Orders packed: ['24807641', '38959170']
+���� Weight: 39408
+���� Volume: 3430
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8595
+
+Container 23:
+���� Orders packed: ['83188962', '39247818']
+���� Weight: 44180
+���� Volume: 3471
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8598
+
+Container 24:
+���� Orders packed: ['75665956', '30959066']
+���� Weight: 44941
+���� Volume: 2515
+���� Pallets: 53
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8602
+
+Container 25:
+���� Orders packed: ['50268618', '23857380', '72105699']
+���� Weight: 44170
+���� Volume: 2819
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8604
+
+Container 26:
+���� Orders packed: ['49770628', '82517075']
+���� Weight: 39448
+���� Volume: 3319
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8606
+
+Container 27:
+���� Orders packed: ['16142340', '53214864', '68252803']
+���� Weight: 43847
+���� Volume: 3388
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8607
+
+Container 28:
+���� Orders packed: ['68085623', '84616750', '20484720', '17786650']
+���� Weight: 43673
+���� Volume: 3583
+���� Pallets: 37
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8608
+
+Container 29:
+���� Orders packed: ['16722794', '88709344']
+���� Weight: 43137
+���� Volume: 3516
+���� Pallets: 39
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8618
+
+Container 30:
+���� Orders packed: ['32333482', '71011543']
+���� Weight: 44845
+���� Volume: 3500
+���� Pallets: 37
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8618
+
+Container 31:
+���� Orders packed: ['62005531', '52349132']
+���� Weight: 41301
+���� Volume: 3485
+���� Pallets: 42
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8620
+
+Container 32:
+���� Orders packed: ['18815002', '61730013']
+���� Weight: 41489
+���� Volume: 3233
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8622
+
+Container 33:
+���� Orders packed: ['15868586']
+���� Weight: 43475
+���� Volume: 3564
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8631
+
+Container 34:
+���� Orders packed: ['60203560', '66188449', '55832388']
+���� Weight: 43928
+���� Volume: 3418
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8641
+
+Container 35:
+���� Orders packed: ['74404621', '73428853']
+���� Weight: 40027
+���� Volume: 2774
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8645
+
+Container 36:
+���� Orders packed: ['74163214', '57735264']
+���� Weight: 37682
+���� Volume: 3384
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8647
+
+Container 37:
+���� Orders packed: ['42580862', '93816485', '22313606', '70481669']
+���� Weight: 44950
+���� Volume: 3352
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8656
+
+Container 38:
+���� Orders packed: ['34113318', '77425384']
+���� Weight: 35484
+���� Volume: 3573
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8659
+
+Container 39:
+���� Orders packed: ['42715737', '58810114', '94636052']
+���� Weight: 43223
+���� Volume: 3014
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8659
+
+Container 40:
+���� Orders packed: ['91414212', '30024738', '99344846']
+���� Weight: 44382
+���� Volume: 2513
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8670
+
+Container 41:
+���� Orders packed: ['53678556', '70673413', '82748745']
+���� Weight: 44483
+���� Volume: 3587
+���� Pallets: 37
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8672
+
+Container 42:
+���� Orders packed: ['75675949', '25089708']
+���� Weight: 44239
+���� Volume: 3129
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8674
+
+Container 43:
+���� Orders packed: ['88848769', '95904906', '69117159']
+���� Weight: 44695
+���� Volume: 3575
+���� Pallets: 37
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8676
+
+Container 44:
+���� Orders packed: ['57568419', '77243638', '94219781']
+���� Weight: 43690
+���� Volume: 3541
+���� Pallets: 39
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8682
+
+Container 45:
+���� Orders packed: ['52809341', '97701250']
+���� Weight: 44577
+���� Volume: 3411
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8683
+
+Container 46:
+���� Orders packed: ['31388562', '28184566', '11688610']
+���� Weight: 43072
+���� Volume: 2815
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8686
+
+Container 47:
+���� Orders packed: ['40720845', '95345587']
+���� Weight: 44871
+���� Volume: 2856
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8690
+
+Container 48:
+���� Orders packed: ['43294535', '77353647', '77306798', '79376863']
+���� Weight: 38064
+���� Volume: 3053
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8702
+
+Container 49:
+���� Orders packed: ['38274272', '94835482', '56545722']
+���� Weight: 38593
+���� Volume: 3083
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8713
+
+Container 50:
+���� Orders packed: ['28080104', '10836781']
+���� Weight: 37245
+���� Volume: 3492
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8714
+
+Container 51:
+���� Orders packed: ['20486696', '48258766', '70728225']
+���� Weight: 42760
+���� Volume: 3235
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8718
+
+Container 52:
+���� Orders packed: ['83793674', '87617056', '47805309', '52129280', '73960768']
+���� Weight: 43799
+���� Volume: 3395
+���� Pallets: 42
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8721
+
+Container 53:
+���� Orders packed: ['66861434', '32998968']
+���� Weight: 43471
+���� Volume: 3189
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8728
+
+Container 54:
+���� Orders packed: ['64944692', '36430693']
+���� Weight: 44725
+���� Volume: 2925
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8744
+
+Container 55:
+���� Orders packed: ['89772017', '92931090', '69794288']
+���� Weight: 43420
+���� Volume: 3533
+���� Pallets: 41
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8765
+
+Container 56:
+���� Orders packed: ['58733183', '41562026', '97367914', '48623603', '63094525']
+���� Weight: 41802
+���� Volume: 2891
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8773
+
+Container 57:
+���� Orders packed: ['79680751', '27309735', '28355376']
+���� Weight: 39754
+���� Volume: 3175
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8773
+
+Container 58:
+���� Orders packed: ['99082401', '28032543']
+���� Weight: 44088
+���� Volume: 3134
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8779
+
+Container 59:
+���� Orders packed: ['22051966', '89450551']
+���� Weight: 42002
+���� Volume: 2882
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8780
+
+Container 60:
+���� Orders packed: ['91728749', '31849633']
+���� Weight: 40040
+���� Volume: 3460
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8781
+
+Container 61:
+���� Orders packed: ['29953308', '35186151']
+���� Weight: 43910
+���� Volume: 3513
+���� Pallets: 41
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8783
+
+Container 62:
+���� Orders packed: ['90629724', '13290032']
+���� Weight: 37705
+���� Volume: 3591
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8785
+
+Container 63:
+���� Orders packed: ['47135138', '36264400', '38582881']
+���� Weight: 39644
+���� Volume: 3259
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8788
+
+Container 64:
+���� Orders packed: ['77176100', '40680162', '43882354']
+���� Weight: 42348
+���� Volume: 2755
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8799
+
+Container 65:
+���� Orders packed: ['28400953', '20772005', '76429146', '40249893']
+���� Weight: 41910
+���� Volume: 3033
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8802
+
+Container 66:
+���� Orders packed: ['21613210', '50153480', '17291648', '98786299']
+���� Weight: 42596
+���� Volume: 3405
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8808
+
+Container 67:
+���� Orders packed: ['42581639', '22168687']
+���� Weight: 38844
+���� Volume: 3056
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8818
+
+Container 68:
+���� Orders packed: ['27000876', '46738370', '55073544']
+���� Weight: 43778
+���� Volume: 3562
+���� Pallets: 41
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8819
+
+Container 69:
+���� Orders packed: ['80670245', '50896141', '44854259']
+���� Weight: 40467
+���� Volume: 2692
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8823
+
+Container 70:
+���� Orders packed: ['39430263', '56223573', '41405230']
+���� Weight: 39625
+���� Volume: 3360
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8824
+
+Container 71:
+���� Orders packed: ['64926878', '46886130', '40270473']
+���� Weight: 43761
+���� Volume: 3403
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8837
+
+Container 72:
+���� Orders packed: ['71667819', '75469684']
+���� Weight: 37364
+���� Volume: 3558
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8840
+
+Container 73:
+���� Orders packed: ['26050052', '55280014', '18388764']
+���� Weight: 41564
+���� Volume: 3344
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8842
+
+Container 74:
+���� Orders packed: ['71032013', '87498016', '73907263']
+���� Weight: 43073
+���� Volume: 2986
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8844
+
+Container 75:
+���� Orders packed: ['38934374', '99330264']
+���� Weight: 43579
+���� Volume: 3323
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8860
+
+Container 76:
+���� Orders packed: ['69851017', '94677527']
+���� Weight: 37152
+���� Volume: 3485
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8868
+
+Container 77:
+���� Orders packed: ['14406549', '24429507', '83864489', '56938043']
+���� Weight: 43606
+���� Volume: 3274
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8873
+
+Container 78:
+���� Orders packed: ['73533710', '59543392', '22679673', '11120000']
+���� Weight: 41169
+���� Volume: 3533
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8876
+
+Container 79:
+���� Orders packed: ['40119012', '55891426']
+���� Weight: 43937
+���� Volume: 3193
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8878
+
+Container 80:
+���� Orders packed: ['48218981', '20716549', '26491989']
+���� Weight: 43768
+���� Volume: 3387
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8878
+
+Container 81:
+���� Orders packed: ['88693256', '25386036', '88018618']
+���� Weight: 39418
+���� Volume: 3439
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8882
+
+Container 82:
+���� Orders packed: ['89010704', '41904018', '34044293']
+���� Weight: 42047
+���� Volume: 3469
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8882
+
+Container 83:
+���� Orders packed: ['38496129', '87189846']
+���� Weight: 41482
+���� Volume: 3396
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8884
+
+Container 84:
+���� Orders packed: ['10372752', '85546087', '66229751']
+���� Weight: 43620
+���� Volume: 2805
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8884
+
+Container 85:
+���� Orders packed: ['50074410', '17692273']
+���� Weight: 39299
+���� Volume: 3533
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8905
+
+Container 86:
+���� Orders packed: ['30651204', '21360765', '61726712']
+���� Weight: 39439
+���� Volume: 2923
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8906
+
+Container 87:
+���� Orders packed: ['88604365', '57404818', '31414860']
+���� Weight: 44832
+���� Volume: 3452
+���� Pallets: 43
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8906
+
+Container 88:
+���� Orders packed: ['78176677', '56986717']
+���� Weight: 41675
+���� Volume: 3293
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8914
+
+Container 89:
+���� Orders packed: ['25991681', '23498899', '76474021']
+���� Weight: 39177
+���� Volume: 3205
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8925
+
+Container 90:
+���� Orders packed: ['83383640', '98117922']
+���� Weight: 42817
+���� Volume: 3395
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8926
+
+Container 91:
+���� Orders packed: ['25786800', '38795252']
+���� Weight: 41217
+���� Volume: 3586
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8929
+
+Container 92:
+���� Orders packed: ['10484669', '38993915', '74219723']
+���� Weight: 41427
+���� Volume: 3592
+���� Pallets: 33
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8228
+
+Container 93:
+���� Orders packed: ['34050687', '58542224', '71501942']
+���� Weight: 40058
+���� Volume: 3446
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8936
+
+Container 94:
+���� Orders packed: ['27064413', '85306604']
+���� Weight: 43419
+���� Volume: 3130
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8948
+
+Container 95:
+���� Orders packed: ['57082138', '40922712']
+���� Weight: 40279
+���� Volume: 3504
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8950
+
+Container 96:
+���� Orders packed: ['45336872', '38068765', '52496109']
+���� Weight: 42140
+���� Volume: 3425
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8959
+
+Container 97:
+���� Orders packed: ['87449606', '22048643', '11277725']
+���� Weight: 34561
+���� Volume: 3325
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8972
+
+Container 98:
+���� Orders packed: ['64263439', '83294300']
+���� Weight: 42530
+���� Volume: 3594
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8978
+
+Container 99:
+���� Orders packed: ['31234103', '88275886', '90427660', '91336127', '27969471']
+���� Weight: 42803
+���� Volume: 3044
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8989
+
+Container 100:
+���� Orders packed: ['68188408', '34658953', '14102368', '62241869']
+���� Weight: 43440
+���� Volume: 3365
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9000
+
+Container 101:
+���� Orders packed: ['94123478', '78388858', '55209345']
+���� Weight: 43196
+���� Volume: 3565
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9001
+
+Container 102:
+���� Orders packed: ['24216040', '27690227']
+���� Weight: 43000
+���� Volume: 3521
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9001
+
+Container 103:
+���� Orders packed: ['62545544', '57321735']
+���� Weight: 42963
+���� Volume: 3590
+���� Pallets: 45
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9007
+
+Container 104:
+���� Orders packed: ['37309170', '25381596']
+���� Weight: 40593
+���� Volume: 3420
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9007
+
+Container 105:
+���� Orders packed: ['79555125', '99950695', '80418317']
+���� Weight: 43586
+���� Volume: 3243
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9009
+
+Container 106:
+���� Orders packed: ['90460062', '80337918', '27578851', '31822143']
+���� Weight: 44831
+���� Volume: 3265
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9011
+
+Container 107:
+���� Orders packed: ['23655894', '96536743']
+���� Weight: 42301
+���� Volume: 3409
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9012
+
+Container 108:
+���� Orders packed: ['71654359', '87430422']
+���� Weight: 39427
+���� Volume: 3527
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9020
+
+Container 109:
+���� Orders packed: ['45213533', '36294133', '53767517']
+���� Weight: 37460
+���� Volume: 3155
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9029
+
+Container 110:
+���� Orders packed: ['37864145', '93619372', '14927618']
+���� Weight: 44144
+���� Volume: 3287
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9036
+
+Container 111:
+���� Orders packed: ['24825462', '26016653']
+���� Weight: 41163
+���� Volume: 3530
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9040
+
+Container 112:
+���� Orders packed: ['23167017', '62855649', '18513108', '14711481']
+���� Weight: 38919
+���� Volume: 3418
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9048
+
+Container 113:
+���� Orders packed: ['67010814', '30327373', '58111127', '57525771']
+���� Weight: 41971
+���� Volume: 3534
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9048
+
+Container 114:
+���� Orders packed: ['82948408', '71493122', '63281648']
+���� Weight: 41741
+���� Volume: 3314
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9049
+
+Container 115:
+���� Orders packed: ['85588445', '95634329']
+���� Weight: 41162
+���� Volume: 3317
+���� Pallets: 53
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9065
+
+Container 116:
+���� Orders packed: ['58581084', '27876465']
+���� Weight: 39879
+���� Volume: 3362
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9067
+
+Container 117:
+���� Orders packed: ['89884811', '73644768', '56241374']
+���� Weight: 37059
+���� Volume: 3480
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9078
+
+Container 118:
+���� Orders packed: ['73921012', '86385504', '91475874']
+���� Weight: 44162
+���� Volume: 2806
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9092
+
+Container 119:
+���� Orders packed: ['87980578', '73128713', '54014554', '31977765', '75553143']
+���� Weight: 43965
+���� Volume: 3543
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9093
+
+Container 120:
+���� Orders packed: ['15666079', '27382531']
+���� Weight: 40409
+���� Volume: 3529
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9094
+
+Container 121:
+���� Orders packed: ['53769877', '78164705', '31351780']
+���� Weight: 44754
+���� Volume: 3182
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9095
+
+Container 122:
+���� Orders packed: ['45285827', '43088944', '84665367', '53999008', '33797811', '30429701', '28236433']
+���� Weight: 44931
+���� Volume: 3592
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9099
+
+Container 123:
+���� Orders packed: ['42424665', '96413897']
+���� Weight: 41828
+���� Volume: 3483
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9101
+
+Container 124:
+���� Orders packed: ['51081894', '28411636', '65482699']
+���� Weight: 44341
+���� Volume: 3302
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9120
+
+Container 125:
+���� Orders packed: ['62995602', '30499964']
+���� Weight: 43642
+���� Volume: 3598
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9120
+
+Container 126:
+���� Orders packed: ['36254165', '82405277', '71719021']
+���� Weight: 43830
+���� Volume: 3286
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9123
+
+Container 127:
+���� Orders packed: ['40155118', '14511132', '15967146', '19777295', '40521442']
+���� Weight: 43835
+���� Volume: 3289
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9126
+
+Container 128:
+���� Orders packed: ['98742708', '20187414', '30929721', '74677479']
+���� Weight: 41509
+���� Volume: 3477
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9128
+
+Container 129:
+���� Orders packed: ['30780646', '92961659']
+���� Weight: 43477
+���� Volume: 3450
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9137
+
+Container 130:
+���� Orders packed: ['13536225', '51184357', '43867814', '87358579']
+���� Weight: 38772
+���� Volume: 3413
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9143
+
+Container 131:
+���� Orders packed: ['55524023', '91224413', '93686301']
+���� Weight: 44611
+���� Volume: 3259
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9155
+
+Container 132:
+���� Orders packed: ['24937566', '16325611', '91646011']
+���� Weight: 43499
+���� Volume: 3590
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9157
+
+Container 133:
+���� Orders packed: ['90571742', '14003620', '10166869', '46229578', '78035773']
+���� Weight: 44183
+���� Volume: 3180
+���� Pallets: 53
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9162
+
+Container 134:
+���� Orders packed: ['20788539', '19741756']
+���� Weight: 35761
+���� Volume: 3436
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9164
+
+Container 135:
+���� Orders packed: ['19906961', '54994207', '61252959', '67711911']
+���� Weight: 40373
+���� Volume: 3188
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9165
+
+Container 136:
+���� Orders packed: ['11513775', '71476075', '72069312', '45749460']
+���� Weight: 41201
+���� Volume: 3122
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9165
+
+Container 137:
+���� Orders packed: ['70468957', '59666267']
+���� Weight: 42223
+���� Volume: 3521
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9166
+
+Container 138:
+���� Orders packed: ['30873766', '40130949', '12061228']
+���� Weight: 44790
+���� Volume: 2901
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9171
+
+Container 139:
+���� Orders packed: ['51869442', '65467592', '33427112', '22041504', '49241730']
+���� Weight: 42896
+���� Volume: 3419
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9177
+
+Container 140:
+���� Orders packed: ['76899081', '38328774']
+���� Weight: 42872
+���� Volume: 3551
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9186
+
+Container 141:
+���� Orders packed: ['60609028', '10063764']
+���� Weight: 42316
+���� Volume: 3597
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9187
+
+Container 142:
+���� Orders packed: ['68335179', '22907790', '61761651', '18604611']
+���� Weight: 43517
+���� Volume: 2964
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9190
+
+Container 143:
+���� Orders packed: ['62666903', '93251494', '53347184']
+���� Weight: 43544
+���� Volume: 3448
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9196
+
+Container 144:
+���� Orders packed: ['12534145', '30130235', '42944853']
+���� Weight: 37420
+���� Volume: 3408
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9205
+
+Container 145:
+���� Orders packed: ['46608874', '39106554', '69574265']
+���� Weight: 41876
+���� Volume: 3302
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9215
+
+Container 146:
+���� Orders packed: ['34038888', '65685588']
+���� Weight: 42968
+���� Volume: 2916
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9216
+
+Container 147:
+���� Orders packed: ['37679902', '77627122', '42248484']
+���� Weight: 37809
+���� Volume: 3511
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9218
+
+Container 148:
+���� Orders packed: ['22036703', '80049001', '24044833']
+���� Weight: 44088
+���� Volume: 3193
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9222
+
+Container 149:
+���� Orders packed: ['42927021', '40448732', '67971552']
+���� Weight: 41535
+���� Volume: 3581
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9226
+
+Container 150:
+���� Orders packed: ['11230613', '17235224', '14774150']
+���� Weight: 44621
+���� Volume: 3580
+���� Pallets: 47
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9231
+
+Container 151:
+���� Orders packed: ['75012827', '96757066']
+���� Weight: 41822
+���� Volume: 3388
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9235
+
+Container 152:
+���� Orders packed: ['66746190', '14361210']
+���� Weight: 43088
+���� Volume: 3354
+���� Pallets: 53
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9242
+
+Container 153:
+���� Orders packed: ['47192108', '24930756', '14795691', '69563748', '45630987', '76435473']
+���� Weight: 44347
+���� Volume: 3560
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9248
+
+Container 154:
+���� Orders packed: ['85296118', '92026032', '20171335']
+���� Weight: 43773
+���� Volume: 3009
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9251
+
+Container 155:
+���� Orders packed: ['94823021', '38885864', '78658785']
+���� Weight: 43255
+���� Volume: 3537
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9257
+
+Container 156:
+���� Orders packed: ['27015531', '82776705', '35611349', '26534358']
+���� Weight: 44572
+���� Volume: 3496
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9261
+
+Container 157:
+���� Orders packed: ['85585971', '37236386', '53756308']
+���� Weight: 41768
+���� Volume: 3425
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9265
+
+Container 158:
+���� Orders packed: ['27718359', '99914046']
+���� Weight: 42382
+���� Volume: 3381
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9270
+
+Container 159:
+���� Orders packed: ['48592867', '36368384']
+���� Weight: 39018
+���� Volume: 3291
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9271
+
+Container 160:
+���� Orders packed: ['40081421', '68866347', '40220745', '80970350']
+���� Weight: 44834
+���� Volume: 2948
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9273
+
+Container 161:
+���� Orders packed: ['71196017', '11818403', '16733966']
+���� Weight: 41885
+���� Volume: 3559
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9287
+
+Container 162:
+���� Orders packed: ['14926346', '43302108']
+���� Weight: 37646
+���� Volume: 3419
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9288
+
+Container 163:
+���� Orders packed: ['83958965', '44140416']
+���� Weight: 42729
+���� Volume: 3558
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9293
+
+Container 164:
+���� Orders packed: ['44409957', '45209604', '25966927']
+���� Weight: 43693
+���� Volume: 3062
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9294
+
+Container 165:
+���� Orders packed: ['10555883', '58622515', '52892570', '17048916', '66055674', '91780199']
+���� Weight: 44831
+���� Volume: 3514
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9297
+
+Container 166:
+���� Orders packed: ['88666830', '82000776']
+���� Weight: 39114
+���� Volume: 3372
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9297
+
+Container 167:
+���� Orders packed: ['14578188', '13942178', '11702514', '45408427']
+���� Weight: 44963
+���� Volume: 3573
+���� Pallets: 48
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9306
+
+Container 168:
+���� Orders packed: ['38406891', '89089951']
+���� Weight: 44916
+���� Volume: 2925
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9313
+
+Container 169:
+���� Orders packed: ['83417007', '28485552', '65511662']
+���� Weight: 43780
+���� Volume: 3500
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9317
+
+Container 170:
+���� Orders packed: ['47569745', '28518926', '89972223', '88970241']
+���� Weight: 42818
+���� Volume: 3278
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9318
+
+Container 171:
+���� Orders packed: ['17176028', '75301268', '74878985', '97735244']
+���� Weight: 43466
+���� Volume: 3186
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9336
+
+Container 172:
+���� Orders packed: ['33512086', '26162431']
+���� Weight: 44614
+���� Volume: 3035
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9337
+
+Container 173:
+���� Orders packed: ['63586324', '71462974', '63242693']
+���� Weight: 39975
+���� Volume: 3587
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9338
+
+Container 174:
+���� Orders packed: ['24787537', '15044070', '45592567']
+���� Weight: 38530
+���� Volume: 3584
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9339
+
+Container 175:
+���� Orders packed: ['54749775', '50972273', '80686557']
+���� Weight: 40609
+���� Volume: 3545
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9346
+
+Container 176:
+���� Orders packed: ['88185945', '58293351', '81498912', '33852188']
+���� Weight: 43165
+���� Volume: 3581
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9346
+
+Container 177:
+���� Orders packed: ['74386323', '88588001', '51284148', '36424766', '79012550']
+���� Weight: 43886
+���� Volume: 3585
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9348
+
+Container 178:
+���� Orders packed: ['29271214', '53968474']
+���� Weight: 42524
+���� Volume: 3340
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9354
+
+Container 179:
+���� Orders packed: ['86882948', '19697554', '52584655', '89664243']
+���� Weight: 43066
+���� Volume: 3183
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9360
+
+Container 180:
+���� Orders packed: ['11194976', '88842130']
+���� Weight: 44009
+���� Volume: 3474
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9365
+
+Container 181:
+���� Orders packed: ['94342581', '37707904', '44882522']
+���� Weight: 41998
+���� Volume: 3395
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9366
+
+Container 182:
+���� Orders packed: ['49946414', '27722306', '40608333']
+���� Weight: 41210
+���� Volume: 3528
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9375
+
+Container 183:
+���� Orders packed: ['26331979', '80816703', '42820002', '16960941']
+���� Weight: 43618
+���� Volume: 3288
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9387
+
+Container 184:
+���� Orders packed: ['75651524', '98628430', '87927610']
+���� Weight: 44500
+���� Volume: 3522
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9391
+
+Container 185:
+���� Orders packed: ['80377857', '78269030', '20373439', '74431224']
+���� Weight: 43890
+���� Volume: 3211
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9391
+
+Container 186:
+���� Orders packed: ['14686010', '70569492', '67116509']
+���� Weight: 44911
+���� Volume: 3561
+���� Pallets: 50
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9402
+
+Container 187:
+���� Orders packed: ['90838453', '46554797', '33513144']
+���� Weight: 41773
+���� Volume: 3516
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9405
+
+Container 188:
+���� Orders packed: ['68823411', '88288793', '69385784']
+���� Weight: 44384
+���� Volume: 3135
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9413
+
+Container 189:
+���� Orders packed: ['81289459', '51781947']
+���� Weight: 40530
+���� Volume: 3506
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9415
+
+Container 190:
+���� Orders packed: ['19252186', '79892986']
+���� Weight: 42927
+���� Volume: 3329
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9429
+
+Container 191:
+���� Orders packed: ['29526361', '15777234', '57266032']
+���� Weight: 40964
+���� Volume: 3550
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9433
+
+Container 192:
+���� Orders packed: ['57944475', '12648926', '10456545', '52441203']
+���� Weight: 41282
+���� Volume: 3586
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9434
+
+Container 193:
+���� Orders packed: ['23010677', '72269261']
+���� Weight: 44728
+���� Volume: 3372
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9435
+
+Container 194:
+���� Orders packed: ['55322723', '61477682', '77040825']
+���� Weight: 42947
+���� Volume: 3172
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9452
+
+Container 195:
+���� Orders packed: ['25413393', '45640017', '80198584', '13122549']
+���� Weight: 43753
+���� Volume: 3595
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9459
+
+Container 196:
+���� Orders packed: ['63752274', '63659062', '49301436']
+���� Weight: 44823
+���� Volume: 3211
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9460
+
+Container 197:
+���� Orders packed: ['63317024', '51000245', '88074177', '48435305']
+���� Weight: 40727
+���� Volume: 3546
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9467
+
+Container 198:
+���� Orders packed: ['33777241', '20494224', '74949776']
+���� Weight: 43900
+���� Volume: 3416
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9470
+
+Container 199:
+���� Orders packed: ['94064110', '68864827']
+���� Weight: 40046
+���� Volume: 3426
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9472
+
+Container 200:
+���� Orders packed: ['97954655', '78014040', '54584478']
+���� Weight: 44523
+���� Volume: 3435
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9479
+
+Container 201:
+���� Orders packed: ['34179130', '83943248', '33659105']
+���� Weight: 44913
+���� Volume: 3588
+���� Pallets: 51
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9482
+
+Container 202:
+���� Orders packed: ['70822829', '36299245', '69735155', '35158009', '11306317']
+���� Weight: 44639
+���� Volume: 3310
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9483
+
+Container 203:
+���� Orders packed: ['39146043', '21221160', '14670100', '40993763']
+���� Weight: 40188
+���� Volume: 3430
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9486
+
+Container 204:
+���� Orders packed: ['36765195', '32482307', '16121781']
+���� Weight: 41007
+���� Volume: 3447
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9507
+
+Container 205:
+���� Orders packed: ['82008637', '14107510', '46996767']
+���� Weight: 43173
+���� Volume: 3518
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9511
+
+Container 206:
+���� Orders packed: ['66042029', '54501872']
+���� Weight: 44258
+���� Volume: 3556
+���� Pallets: 53
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9515
+
+Container 207:
+���� Orders packed: ['22829343', '25436685', '70894276', '39994262']
+���� Weight: 44654
+���� Volume: 3225
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9516
+
+Container 208:
+���� Orders packed: ['32117802', '70165498', '19231846']
+���� Weight: 44329
+���� Volume: 3492
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9517
+
+Container 209:
+���� Orders packed: ['87981724', '79333425']
+���� Weight: 44982
+���� Volume: 3080
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9517
+
+Container 210:
+���� Orders packed: ['27351090', '93754802']
+���� Weight: 43785
+���� Volume: 3177
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9518
+
+Container 211:
+���� Orders packed: ['36590132', '37289053', '43523536', '21701027']
+���� Weight: 43302
+���� Volume: 3521
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9523
+
+Container 212:
+���� Orders packed: ['52863358', '10184275', '68588693']
+���� Weight: 42232
+���� Volume: 3550
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9526
+
+Container 213:
+���� Orders packed: ['71569279', '23047851', '91438554']
+���� Weight: 43957
+���� Volume: 3596
+���� Pallets: 53
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9530
+
+Container 214:
+���� Orders packed: ['54040905', '59778766']
+���� Weight: 42309
+���� Volume: 3436
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9538
+
+Container 215:
+���� Orders packed: ['17788442', '12186241']
+���� Weight: 43653
+���� Volume: 3570
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9539
+
+Container 216:
+���� Orders packed: ['51343863', '38598075']
+���� Weight: 44532
+���� Volume: 3444
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9543
+
+Container 217:
+���� Orders packed: ['83731454', '29960052', '88498575', '83860574', '28423201', '83356749']
+���� Weight: 43015
+���� Volume: 3446
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9544
+
+Container 218:
+���� Orders packed: ['23614028', '73168405', '10906982']
+���� Weight: 44144
+���� Volume: 3600
+���� Pallets: 53
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9548
+
+Container 219:
+���� Orders packed: ['51496479', '71562938', '28063028']
+���� Weight: 44950
+���� Volume: 3600
+���� Pallets: 52
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9552
+
+Container 220:
+���� Orders packed: ['53202599', '81236707']
+���� Weight: 44483
+���� Volume: 3298
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9571
+
+Container 221:
+���� Orders packed: ['31253124', '31425820']
+���� Weight: 44459
+���� Volume: 3482
+���� Pallets: 55
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9573
+
+Container 222:
+���� Orders packed: ['18751390', '68919726', '29204339']
+���� Weight: 42693
+���� Volume: 3393
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9582
+
+Container 223:
+���� Orders packed: ['36083359', '89698602', '58688539']
+���� Weight: 42963
+���� Volume: 3492
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9582
+
+Container 224:
+���� Orders packed: ['54498494', '36983231']
+���� Weight: 41419
+���� Volume: 3527
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9612
+
+Container 225:
+���� Orders packed: ['79416199', '24301961']
+���� Weight: 42737
+���� Volume: 3363
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9613
+
+Container 226:
+���� Orders packed: ['70043972', '83548990', '65897395']
+���� Weight: 42947
+���� Volume: 3594
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9620
+
+Container 227:
+���� Orders packed: ['61383030', '91890939']
+���� Weight: 43137
+���� Volume: 3519
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9620
+
+Container 228:
+���� Orders packed: ['43808522', '64237936', '90459684']
+���� Weight: 44979
+���� Volume: 3198
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9626
+
+Container 229:
+���� Orders packed: ['62436215', '99722545']
+���� Weight: 43581
+���� Volume: 3320
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9636
+
+Container 230:
+���� Orders packed: ['73418953', '52850628', '27060034']
+���� Weight: 43971
+���� Volume: 3537
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9643
+
+Container 231:
+���� Orders packed: ['20463679', '79351216']
+���� Weight: 43487
+���� Volume: 3522
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9649
+
+Container 232:
+���� Orders packed: ['67538618', '73956919', '25566108', '72185773']
+���� Weight: 43486
+���� Volume: 3583
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9650
+
+Container 233:
+���� Orders packed: ['74692773', '90313921', '51981820', '23473923']
+���� Weight: 44128
+���� Volume: 3371
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9668
+
+Container 234:
+���� Orders packed: ['31221761', '87846175', '73506142']
+���� Weight: 44661
+���� Volume: 3391
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9670
+
+Container 235:
+���� Orders packed: ['50464216', '30762652', '25256692']
+���� Weight: 44345
+���� Volume: 3547
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9680
+
+Container 236:
+���� Orders packed: ['37265478', '33646615', '58754678', '60627517', '97912558']
+���� Weight: 42442
+���� Volume: 3581
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9682
+
+Container 237:
+���� Orders packed: ['85731791', '93864917', '75571926']
+���� Weight: 44658
+���� Volume: 3356
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9693
+
+Container 238:
+���� Orders packed: ['86187991', '90625561', '36877335']
+���� Weight: 44405
+���� Volume: 3380
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9697
+
+Container 239:
+���� Orders packed: ['26000799', '98614752', '96879739', '78349953']
+���� Weight: 43885
+���� Volume: 3490
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9704
+
+Container 240:
+���� Orders packed: ['12201037', '98659088', '43577818']
+���� Weight: 44674
+���� Volume: 3369
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9706
+
+Container 241:
+���� Orders packed: ['61783581', '97895043', '20277996', '16187387']
+���� Weight: 43073
+���� Volume: 3563
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9712
+
+Container 242:
+���� Orders packed: ['20881552', '59074390', '87348561', '28290648', '22933507']
+���� Weight: 43516
+���� Volume: 3593
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9717
+
+Container 243:
+���� Orders packed: ['60984332', '24306251', '54338633']
+���� Weight: 43404
+���� Volume: 3505
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9738
+
+Container 244:
+���� Orders packed: ['67756400', '32080880']
+���� Weight: 44239
+���� Volume: 3564
+���� Pallets: 57
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9744
+
+Container 245:
+���� Orders packed: ['39649842', '17285648']
+���� Weight: 44279
+���� Volume: 3506
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9748
+
+Container 246:
+���� Orders packed: ['70719331', '81158074']
+���� Weight: 43526
+���� Volume: 3521
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9762
+
+Container 247:
+���� Orders packed: ['19825458', '12457109', '87654946', '67187147']
+���� Weight: 43348
+���� Volume: 3476
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9763
+
+Container 248:
+���� Orders packed: ['12690246', '48145075']
+���� Weight: 43164
+���� Volume: 3557
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9769
+
+Container 249:
+���� Orders packed: ['68930184', '46854023', '47354647']
+���� Weight: 44511
+���� Volume: 3518
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9777
+
+Container 250:
+���� Orders packed: ['54311718', '66432663', '45210637', '70060010']
+���� Weight: 44630
+���� Volume: 3522
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9789
+
+Container 251:
+���� Orders packed: ['95984497', '72323382']
+���� Weight: 44476
+���� Volume: 3535
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9790
+
+Container 252:
+���� Orders packed: ['70699927', '87714364']
+���� Weight: 43567
+���� Volume: 3554
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9796
+
+Container 253:
+���� Orders packed: ['41347415', '59476921']
+���� Weight: 42418
+���� Volume: 3589
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9799
+
+Container 254:
+���� Orders packed: ['84964768', '59121790', '26550655']
+���� Weight: 44208
+���� Volume: 3450
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9802
+
+Container 255:
+���� Orders packed: ['84659773', '57541638']
+���� Weight: 44860
+���� Volume: 3478
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9821
+
+Container 256:
+���� Orders packed: ['80594653', '32767414', '41573615']
+���� Weight: 42928
+���� Volume: 3593
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9840
+
+Container 257:
+���� Orders packed: ['97542908', '95924279', '67932493', '51466750']
+���� Weight: 44598
+���� Volume: 3463
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9843
+
+Container 258:
+���� Orders packed: ['68389579', '51207560', '20156306']
+���� Weight: 43832
+���� Volume: 3532
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9851
+
+Container 259:
+���� Orders packed: ['87060902', '64409390', '27894186', '60076044']
+���� Weight: 44759
+���� Volume: 3578
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9851
+
+Container 260:
+���� Orders packed: ['14879080', '18367999', '71867294']
+���� Weight: 44892
+���� Volume: 3451
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9854
+
+Container 261:
+���� Orders packed: ['34943875', '48503304']
+���� Weight: 44592
+���� Volume: 3585
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.9956
+
+Container 262:
+���� Orders packed: ['16521560']
+���� Weight: 42593
+���� Volume: 643
+���� Pallets: 6
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4084
+
+Container 263:
+���� Orders packed: ['88960928']
+���� Weight: 41832
+���� Volume: 838
+���� Pallets: 8
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4319
+
+Container 264:
+���� Orders packed: ['90748645']
+���� Weight: 39298
+���� Volume: 1371
+���� Pallets: 12
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4847
+
+Container 265:
+���� Orders packed: ['14753231']
+���� Weight: 43893
+���� Volume: 1144
+���� Pallets: 1
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4366
+
+Container 266:
+���� Orders packed: ['51957035']
+���� Weight: 36374
+���� Volume: 1671
+���� Pallets: 3
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4408
+
+Container 267:
+���� Orders packed: ['13510271']
+���� Weight: 40526
+���� Volume: 1688
+���� Pallets: 6
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4898
+
+Container 268:
+���� Orders packed: ['23664583']
+���� Weight: 37885
+���� Volume: 1482
+���� Pallets: 6
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4512
+
+Container 269:
+���� Orders packed: ['15002933']
+���� Weight: 37999
+���� Volume: 855
+���� Pallets: 12
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4273
+
+Container 270:
+���� Orders packed: ['69538525']
+���� Weight: 38628
+���� Volume: 1493
+���� Pallets: 18
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5244
+
+Container 271:
+���� Orders packed: ['59578723']
+���� Weight: 44325
+���� Volume: 1605
+���� Pallets: 13
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5492
+
+Container 272:
+���� Orders packed: ['62900531']
+���� Weight: 43633
+���� Volume: 2401
+���� Pallets: 1
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5511
+
+Container 273:
+���� Orders packed: ['78334793']
+���� Weight: 24718
+���� Volume: 3202
+���� Pallets: 10
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5351
+
+Container 274:
+���� Orders packed: ['20852328']
+���� Weight: 28681
+���� Volume: 127
+���� Pallets: 56
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5353
+
+Container 275:
+���� Orders packed: ['14124504']
+���� Weight: 34018
+���� Volume: 1936
+���� Pallets: 19
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5368
+
+Container 276:
+���� Orders packed: ['76400344']
+���� Weight: 43802
+���� Volume: 54
+���� Pallets: 41
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5572
+
+Container 277:
+���� Orders packed: ['48049563']
+���� Weight: 22823
+���� Volume: 488
+���� Pallets: 59
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5420
+
+Container 278:
+���� Orders packed: ['12686149']
+���� Weight: 34243
+���� Volume: 1695
+���� Pallets: 21
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5273
+
+Container 279:
+���� Orders packed: ['88195561']
+���� Weight: 40357
+���� Volume: 442
+���� Pallets: 34
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5288
+
+Container 280:
+���� Orders packed: ['88708842']
+���� Weight: 33469
+���� Volume: 2205
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5410
+
+Container 281:
+���� Orders packed: ['71875611']
+���� Weight: 37812
+���� Volume: 1999
+���� Pallets: 7
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5041
+
+Container 282:
+���� Orders packed: ['46677868']
+���� Weight: 34904
+���� Volume: 1633
+���� Pallets: 25
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5486
+
+Container 283:
+���� Orders packed: ['83154690']
+���� Weight: 33171
+���� Volume: 2267
+���� Pallets: 9
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5056
+
+Container 284:
+���� Orders packed: ['15606438']
+���� Weight: 40008
+���� Volume: 910
+���� Pallets: 34
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5695
+
+Container 285:
+���� Orders packed: ['11081410']
+���� Weight: 18686
+���� Volume: 3533
+���� Pallets: 19
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5711
+
+Container 286:
+���� Orders packed: ['91708989']
+���� Weight: 32971
+���� Volume: 2038
+���� Pallets: 21
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5496
+
+Container 287:
+���� Orders packed: ['37782457']
+���� Weight: 39687
+���� Volume: 1886
+���� Pallets: 18
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5686
+
+Container 288:
+���� Orders packed: ['60919573']
+���� Weight: 44023
+���� Volume: 1277
+���� Pallets: 23
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5721
+
+Container 289:
+���� Orders packed: ['49078759']
+���� Weight: 33039
+���� Volume: 1600
+���� Pallets: 25
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5318
+
+Container 290:
+���� Orders packed: ['55312847']
+���� Weight: 31609
+���� Volume: 2430
+���� Pallets: 15
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5425
+
+Container 291:
+���� Orders packed: ['19784887']
+���� Weight: 27852
+���� Volume: 2199
+���� Pallets: 20
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5210
+
+Container 292:
+���� Orders packed: ['72173616']
+���� Weight: 35260
+���� Volume: 1613
+���� Pallets: 20
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5216
+
+Container 293:
+���� Orders packed: ['20107277']
+���� Weight: 32945
+���� Volume: 1872
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5063
+
+Container 294:
+���� Orders packed: ['70923221']
+���� Weight: 26427
+���� Volume: 2822
+���� Pallets: 7
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4959
+
+Container 295:
+���� Orders packed: ['55597314']
+���� Weight: 30489
+���� Volume: 2026
+���� Pallets: 22
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5357
+
+Container 296:
+���� Orders packed: ['95691280']
+���� Weight: 29210
+���� Volume: 2806
+���� Pallets: 18
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5762
+
+Container 297:
+���� Orders packed: ['30296598']
+���� Weight: 29275
+���� Volume: 2470
+���� Pallets: 15
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5289
+
+Container 298:
+���� Orders packed: ['71784616']
+���� Weight: 31610
+���� Volume: 1909
+���� Pallets: 26
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5554
+
+Container 299:
+���� Orders packed: ['45497232']
+���� Weight: 29684
+���� Volume: 2125
+���� Pallets: 22
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5389
+
+Container 300:
+���� Orders packed: ['59741775']
+���� Weight: 23329
+���� Volume: 2976
+���� Pallets: 20
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5595
+
+Container 301:
+���� Orders packed: ['58747026']
+���� Weight: 28787
+���� Volume: 2170
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5031
+
+Container 302:
+���� Orders packed: ['24288677']
+���� Weight: 42804
+���� Volume: 516
+���� Pallets: 41
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5926
+
+Container 303:
+���� Orders packed: ['76839857']
+���� Weight: 38599
+���� Volume: 3082
+���� Pallets: 4
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5935
+
+Container 304:
+���� Orders packed: ['67144693']
+���� Weight: 26107
+���� Volume: 2854
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5465
+
+Container 305:
+���� Orders packed: ['94453962']
+���� Weight: 33968
+���� Volume: 1539
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4830
+
+Container 306:
+���� Orders packed: ['85236250']
+���� Weight: 31297
+���� Volume: 1973
+���� Pallets: 23
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5423
+
+Container 307:
+���� Orders packed: ['59781142']
+���� Weight: 34716
+���� Volume: 1690
+���� Pallets: 15
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4970
+
+Container 308:
+���� Orders packed: ['43321603']
+���� Weight: 30417
+���� Volume: 2063
+���� Pallets: 18
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5163
+
+Container 309:
+���� Orders packed: ['77678690']
+���� Weight: 30010
+���� Volume: 2038
+���� Pallets: 24
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5443
+
+Container 310:
+���� Orders packed: ['28866388']
+���� Weight: 19652
+���� Volume: 1324
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6015
+
+Container 311:
+���� Orders packed: ['90139478']
+���� Weight: 33479
+���� Volume: 1784
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5021
+
+Container 312:
+���� Orders packed: ['35376744']
+���� Weight: 30369
+���� Volume: 2113
+���� Pallets: 25
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5595
+
+Container 313:
+���� Orders packed: ['82854414']
+���� Weight: 33039
+���� Volume: 1995
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5850
+
+Container 314:
+���� Orders packed: ['19296395']
+���� Weight: 36247
+���� Volume: 3398
+���� Pallets: 4
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6053
+
+Container 315:
+���� Orders packed: ['65395765']
+���� Weight: 29659
+���� Volume: 2970
+���� Pallets: 15
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5780
+
+Container 316:
+���� Orders packed: ['62541965']
+���� Weight: 31400
+���� Volume: 1698
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5565
+
+Container 317:
+���� Orders packed: ['89357542']
+���� Weight: 37123
+���� Volume: 1229
+���� Pallets: 37
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5943
+
+Container 318:
+���� Orders packed: ['70035949']
+���� Weight: 25206
+���� Volume: 2414
+���� Pallets: 19
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5158
+
+Container 319:
+���� Orders packed: ['79988590']
+���� Weight: 40914
+���� Volume: 1803
+���� Pallets: 25
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6089
+
+Container 320:
+���� Orders packed: ['68895699']
+���� Weight: 27763
+���� Volume: 2197
+���� Pallets: 25
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5480
+
+Container 321:
+���� Orders packed: ['57876325']
+���� Weight: 37535
+���� Volume: 1125
+���� Pallets: 42
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6155
+
+Container 322:
+���� Orders packed: ['54645058']
+���� Weight: 27686
+���� Volume: 2452
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5877
+
+Container 323:
+���� Orders packed: ['36718768']
+���� Weight: 28928
+���� Volume: 2220
+���� Pallets: 19
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5254
+
+Container 324:
+���� Orders packed: ['69071649']
+���� Weight: 28270
+���� Volume: 2094
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4922
+
+Container 325:
+���� Orders packed: ['19824670']
+���� Weight: 34730
+���� Volume: 1937
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5922
+
+Container 326:
+���� Orders packed: ['54247642']
+���� Weight: 29331
+���� Volume: 1643
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5250
+
+Container 327:
+���� Orders packed: ['53767907']
+���� Weight: 26582
+���� Volume: 2282
+���� Pallets: 15
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4915
+
+Container 328:
+���� Orders packed: ['49004975']
+���� Weight: 29410
+���� Volume: 2015
+���� Pallets: 23
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5322
+
+Container 329:
+���� Orders packed: ['48283165']
+���� Weight: 30488
+���� Volume: 2279
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6035
+
+Container 330:
+���� Orders packed: ['98781169']
+���� Weight: 40025
+���� Volume: 1751
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6253
+
+Container 331:
+���� Orders packed: ['10465146']
+���� Weight: 28805
+���� Volume: 2243
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5766
+
+Container 332:
+���� Orders packed: ['64083626']
+���� Weight: 28325
+���� Volume: 2588
+���� Pallets: 26
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5939
+
+Container 333:
+���� Orders packed: ['50054241']
+���� Weight: 29510
+���� Volume: 2413
+���� Pallets: 26
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5865
+
+Container 334:
+���� Orders packed: ['39883811']
+���� Weight: 34653
+���� Volume: 2255
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6210
+
+Container 335:
+���� Orders packed: ['74274006']
+���� Weight: 36476
+���� Volume: 991
+���� Pallets: 37
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5675
+
+Container 336:
+���� Orders packed: ['29805559']
+���� Weight: 29897
+���� Volume: 1862
+���� Pallets: 21
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5105
+
+Container 337:
+���� Orders packed: ['80247526']
+���� Weight: 25532
+���� Volume: 2402
+���� Pallets: 19
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5171
+
+Container 338:
+���� Orders packed: ['36207520']
+���� Weight: 28245
+���� Volume: 2363
+���� Pallets: 31
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6002
+
+Container 339:
+���� Orders packed: ['52729504']
+���� Weight: 32941
+���� Volume: 1907
+���� Pallets: 22
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5428
+
+Container 340:
+���� Orders packed: ['92664960']
+���� Weight: 41552
+���� Volume: 1923
+���� Pallets: 27
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6358
+
+Container 341:
+���� Orders packed: ['92202565']
+���� Weight: 34790
+���� Volume: 2162
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6190
+
+Container 342:
+���� Orders packed: ['15108613']
+���� Weight: 30566
+���� Volume: 1448
+���� Pallets: 46
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6160
+
+Container 343:
+���� Orders packed: ['19228099']
+���� Weight: 44968
+���� Volume: 1240
+���� Pallets: 35
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6424
+
+Container 344:
+���� Orders packed: ['14933849']
+���� Weight: 30799
+���� Volume: 1853
+���� Pallets: 15
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4830
+
+Container 345:
+���� Orders packed: ['23497111']
+���� Weight: 4981
+���� Volume: 3048
+���� Pallets: 21
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4358
+
+Container 346:
+���� Orders packed: ['64478509']
+���� Weight: 24414
+���� Volume: 2429
+���� Pallets: 27
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5558
+
+Container 347:
+���� Orders packed: ['40780095']
+���� Weight: 25328
+���� Volume: 2432
+���� Pallets: 35
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6072
+
+Container 348:
+���� Orders packed: ['75802557']
+���� Weight: 25663
+���� Volume: 2479
+���� Pallets: 26
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5641
+
+Container 349:
+���� Orders packed: ['92896992']
+���� Weight: 26921
+���� Volume: 2187
+���� Pallets: 16
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4908
+
+Container 350:
+���� Orders packed: ['76273037']
+���� Weight: 39338
+���� Volume: 488
+���� Pallets: 41
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5644
+
+Container 351:
+���� Orders packed: ['41226346']
+���� Weight: 37003
+���� Volume: 2618
+���� Pallets: 22
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6387
+
+Container 352:
+���� Orders packed: ['61171963']
+���� Weight: 43298
+���� Volume: 326
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6509
+
+Container 353:
+���� Orders packed: ['14529976']
+���� Weight: 21949
+���� Volume: 2989
+���� Pallets: 6
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.4727
+
+Container 354:
+���� Orders packed: ['28502512']
+���� Weight: 33335
+���� Volume: 2290
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6256
+
+Container 355:
+���� Orders packed: ['96542602']
+���� Weight: 28920
+���� Volume: 1941
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5551
+
+Container 356:
+���� Orders packed: ['50271756']
+���� Weight: 26403
+���� Volume: 2437
+���� Pallets: 25
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5601
+
+Container 357:
+���� Orders packed: ['19960762']
+���� Weight: 34698
+���� Volume: 2436
+���� Pallets: 31
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6548
+
+Container 358:
+���� Orders packed: ['95756060']
+���� Weight: 33506
+���� Volume: 3448
+���� Pallets: 17
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6619
+
+Container 359:
+���� Orders packed: ['45216707']
+���� Weight: 43437
+���� Volume: 2317
+���� Pallets: 23
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6641
+
+Container 360:
+���� Orders packed: ['82454139']
+���� Weight: 33130
+���� Volume: 2150
+���� Pallets: 31
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6167
+
+Container 361:
+���� Orders packed: ['66033959']
+���� Weight: 24926
+���� Volume: 2316
+���� Pallets: 27
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5491
+
+Container 362:
+���� Orders packed: ['67703078']
+���� Weight: 35834
+���� Volume: 3378
+���� Pallets: 18
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6782
+
+Container 363:
+���� Orders packed: ['74318249']
+���� Weight: 26570
+���� Volume: 2271
+���� Pallets: 27
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5571
+
+Container 364:
+���� Orders packed: ['23154228']
+���� Weight: 35714
+���� Volume: 3148
+���� Pallets: 23
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6838
+
+Container 365:
+���� Orders packed: ['50040486']
+���� Weight: 34227
+���� Volume: 1967
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6468
+
+Container 366:
+���� Orders packed: ['22098853']
+���� Weight: 40284
+���� Volume: 772
+���� Pallets: 58
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6921
+
+Container 367:
+���� Orders packed: ['74479790']
+���� Weight: 30030
+���� Volume: 2443
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6153
+
+Container 368:
+���� Orders packed: ['57086421']
+���� Weight: 29512
+���� Volume: 2004
+���� Pallets: 33
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5875
+
+Container 369:
+���� Orders packed: ['91690275']
+���� Weight: 31276
+���� Volume: 1564
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5320
+
+Container 370:
+���� Orders packed: ['20630185']
+���� Weight: 12458
+���� Volume: 3106
+���� Pallets: 54
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6799
+
+Container 371:
+���� Orders packed: ['89252984']
+���� Weight: 33623
+���� Volume: 2445
+���� Pallets: 32
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6532
+
+Container 372:
+���� Orders packed: ['52995730']
+���� Weight: 42281
+���� Volume: 2900
+���� Pallets: 26
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7262
+
+Container 373:
+���� Orders packed: ['40816717']
+���� Weight: 34918
+���� Volume: 3391
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7337
+
+Container 374:
+���� Orders packed: ['54406767']
+���� Weight: 38417
+���� Volume: 2184
+���� Pallets: 43
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7257
+
+Container 375:
+���� Orders packed: ['17023482']
+���� Weight: 29725
+���� Volume: 2529
+���� Pallets: 31
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6266
+
+Container 376:
+���� Orders packed: ['76636214']
+���� Weight: 40246
+���� Volume: 2632
+���� Pallets: 35
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7363
+
+Container 377:
+���� Orders packed: ['48516100']
+���� Weight: 40994
+���� Volume: 2652
+���� Pallets: 34
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7381
+
+Container 378:
+���� Orders packed: ['36666143']
+���� Weight: 26702
+���� Volume: 2311
+���� Pallets: 35
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6062
+
+Container 379:
+���� Orders packed: ['71981435']
+���� Weight: 36951
+���� Volume: 2851
+���� Pallets: 33
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7210
+
+Container 380:
+���� Orders packed: ['88821066']
+���� Weight: 38849
+���� Volume: 2991
+���� Pallets: 33
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7480
+
+Container 381:
+���� Orders packed: ['22340313', '39635756']
+���� Weight: 44837
+���� Volume: 3309
+���� Pallets: 21
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7552
+
+Container 382:
+���� Orders packed: ['82799377']
+���� Weight: 25875
+���� Volume: 2379
+���� Pallets: 32
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.5897
+
+Container 383:
+���� Orders packed: ['27327974']
+���� Weight: 37737
+���� Volume: 1564
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7577
+
+Container 384:
+���� Orders packed: ['82991720']
+���� Weight: 43086
+���� Volume: 2769
+���� Pallets: 33
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7589
+
+Container 385:
+���� Orders packed: ['73085672']
+���� Weight: 34978
+���� Volume: 2300
+���� Pallets: 43
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7109
+
+Container 386:
+���� Orders packed: ['56444787']
+���� Weight: 39311
+���� Volume: 2847
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7659
+
+Container 387:
+���� Orders packed: ['18457339']
+���� Weight: 36693
+���� Volume: 2900
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7625
+
+Container 388:
+���� Orders packed: ['60675722']
+���� Weight: 37562
+���� Volume: 2527
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7567
+
+Container 389:
+���� Orders packed: ['83389159', '45829266', '18145836']
+���� Weight: 36068
+���� Volume: 3510
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7533
+
+Container 390:
+���� Orders packed: ['62671154', '47977695', '59297673']
+���� Weight: 44130
+���� Volume: 3435
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8116
+
+Container 391:
+���� Orders packed: ['81759206']
+���� Weight: 28769
+���� Volume: 2666
+���� Pallets: 31
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6322
+
+Container 392:
+���� Orders packed: ['58124079', '28491103', '21446299']
+���� Weight: 39824
+���� Volume: 3341
+���� Pallets: 36
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8043
+
+Container 393:
+���� Orders packed: ['73831628']
+���� Weight: 40606
+���� Volume: 3502
+���� Pallets: 36
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8250
+
+Container 394:
+���� Orders packed: ['40526151', '89309989']
+���� Weight: 38026
+���� Volume: 2962
+���� Pallets: 49
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8282
+
+Container 395:
+���� Orders packed: ['49840994', '56648786']
+���� Weight: 42229
+���� Volume: 2975
+���� Pallets: 39
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8049
+
+Container 396:
+���� Orders packed: ['42764972', '25563448']
+���� Weight: 40022
+���� Volume: 3054
+���� Pallets: 28
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7348
+
+Container 397:
+���� Orders packed: ['77301913']
+���� Weight: 32900
+���� Volume: 2800
+���� Pallets: 60
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8363
+
+Container 398:
+���� Orders packed: ['43409285', '17371596', '85896971']
+���� Weight: 35841
+���� Volume: 3379
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7450
+
+Container 399:
+���� Orders packed: ['44398374', '63803764', '80801713']
+���� Weight: 41171
+���� Volume: 3523
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7923
+
+Container 400:
+���� Orders packed: ['83303578', '35305647']
+���� Weight: 33763
+���� Volume: 2933
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6828
+
+Container 401:
+���� Orders packed: ['22330934', '64736552', '13858897']
+���� Weight: 42012
+���� Volume: 3206
+���� Pallets: 27
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7581
+
+Container 402:
+���� Orders packed: ['57479326', '31945570']
+���� Weight: 40423
+���� Volume: 2579
+���� Pallets: 38
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7493
+
+Container 403:
+���� Orders packed: ['39774950', '80346850']
+���� Weight: 42118
+���� Volume: 2802
+���� Pallets: 33
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7548
+
+Container 404:
+���� Orders packed: ['94276181', '25302363']
+���� Weight: 36406
+���� Volume: 3120
+���� Pallets: 43
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7975
+
+Container 405:
+���� Orders packed: ['61066066', '90942164']
+���� Weight: 43846
+���� Volume: 2169
+���� Pallets: 43
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7645
+
+Container 406:
+���� Orders packed: ['81322342', '13413552']
+���� Weight: 38573
+���� Volume: 2210
+���� Pallets: 27
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.6404
+
+Container 407:
+���� Orders packed: ['86464691', '82315791']
+���� Weight: 41406
+���� Volume: 2804
+���� Pallets: 35
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7608
+
+Container 408:
+���� Orders packed: ['18397911']
+���� Weight: 34799
+���� Volume: 2864
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7452
+
+Container 409:
+���� Orders packed: ['60077934', '27640601']
+���� Weight: 40356
+���� Volume: 3061
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8268
+
+Container 410:
+���� Orders packed: ['48358574', '79010486']
+���� Weight: 37832
+���� Volume: 3292
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7517
+
+Container 411:
+���� Orders packed: ['16086316', '53721518', '19636521', '50974938']
+���� Weight: 43308
+���� Volume: 3260
+���� Pallets: 17
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7171
+
+Container 412:
+���� Orders packed: ['50495145', '43693057']
+���� Weight: 41960
+���� Volume: 3067
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8392
+
+Container 413:
+���� Orders packed: ['99708486', '31163789', '63669097']
+���� Weight: 44493
+���� Volume: 3468
+���� Pallets: 20
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7618
+
+Container 414:
+���� Orders packed: ['47878920', '45078876', '43870784']
+���� Weight: 39798
+���� Volume: 3592
+���� Pallets: 21
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7441
+
+Container 415:
+���� Orders packed: ['33136991', '69017987', '75078490', '64351016']
+���� Weight: 44535
+���� Volume: 3440
+���� Pallets: 31
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8206
+
+Container 416:
+���� Orders packed: ['89673485', '34389238', '28977441']
+���� Weight: 43901
+���� Volume: 3237
+���� Pallets: 32
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8027
+
+Container 417:
+���� Orders packed: ['27414683', '83475885']
+���� Weight: 42286
+���� Volume: 3005
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8137
+
+Container 418:
+���� Orders packed: ['27251899', '31518958', '84333085']
+���� Weight: 42922
+���� Volume: 3175
+���� Pallets: 26
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7564
+
+Container 419:
+���� Orders packed: ['48140467', '41113431', '50480195']
+���� Weight: 41876
+���� Volume: 3569
+���� Pallets: 33
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8240
+
+Container 420:
+���� Orders packed: ['19000819', '67847567']
+���� Weight: 43148
+���� Volume: 2888
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8315
+
+Container 421:
+���� Orders packed: ['33223080', '65179333', '30309881']
+���� Weight: 35233
+���� Volume: 3510
+���� Pallets: 36
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7860
+
+Container 422:
+���� Orders packed: ['88301013', '64671303']
+���� Weight: 42733
+���� Volume: 3164
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7706
+
+Container 423:
+���� Orders packed: ['38681848', '82346139', '69276729', '60727791', '87941529']
+���� Weight: 38366
+���� Volume: 3340
+���� Pallets: 29
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7546
+
+Container 424:
+���� Orders packed: ['85118671', '33520868', '49898367']
+���� Weight: 44408
+���� Volume: 3531
+���� Pallets: 30
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8226
+
+Container 425:
+���� Orders packed: ['36212365', '26001203', '43783842', '68109878']
+���� Weight: 40045
+���� Volume: 3019
+���� Pallets: 44
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8206
+
+Container 426:
+���� Orders packed: ['78321060', '65645769', '61466670']
+���� Weight: 44350
+���� Volume: 3262
+���� Pallets: 40
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.8528
+
+Container 427:
+���� Orders packed: ['29371410', '94147522', '63152015']
+���� Weight: 40547
+���� Volume: 3173
+���� Pallets: 35
+���� (satisfies the capacity constraints)
+���� Average utilization rate of the container:  0.7886
+
+Total analysis: 
+���� Total number of containers used: 428
+���� Utilization rate
+��  ���� weight rate:  0.8795
+��  ���� volume rate:  0.8230
+��  ���� pallets rate:  0.7080
+��  ���� total:  0.8035
+���� All containers satisfy the capacity constraints.
