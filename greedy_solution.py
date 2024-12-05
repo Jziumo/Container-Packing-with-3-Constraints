@@ -201,6 +201,6 @@ def testBestGreedySolutions(task):
     return best_w, best_v, best_p
 
 # utilizationRateBasedGreedy('a')
-# utilizationRateBasedGreedy('b')
+utilizationRateBasedGreedy('b')
 # testGreedy('a', w=1, v=201, p=1)
 # testGreedy('b', w=5, v=153, p=45)

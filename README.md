@@ -1,59 +1,37 @@
-# ISE 536 Term Project
+# Container Packing Problem
 
-## Update
+This is a term project in the Linear Programming course at USC. Our work is to solve a container packing problem. A more detailed description can be found [here](./documents/description.md).
 
-初步搭建了问题a的模型, 能跑出较少数量的数据, 但无法运算出全部数据的最优解. 
+The problem is also known as [bin packing problem](https://en.wikipedia.org/wiki/Bin_packing_problem). The main challenge here is that each container has **3 constraints (weight, volume, pallets)** instead of a single constraint. We mainly use a **simulated annealing** method to approximate the optimal solution based on a greedy initial solution.
 
-添加了每个container的利用率指标分析, 可能会用到与随机解、贪心解、最优解（如果能算出来的话）之间的比较. 
+This project was completed by **Zijin Qin (Jin)** and **Zhou Zhang**.
+
+## Catalog
+
+[Problem Description](./documents/description.md)
+
+[Results](./documents/results.md)
 
 
-## 目录
+## How can I Run These Scripts?
 
-[题目](./documents/description.md)
-
-## 部署项目
-
-克隆项目到本地，在指定目录下打开命令行，输入以下命令：
+Clone the project to the local directory.
 ```
 git clone https://github.com/Jziumo/linear_programming_term_project.git
 ```
 
-在根目录的命令行下，激活虚拟环境：
+Activate the virtual environment in the root directory.
+
 ```
 .\venv\Scripts\Activate.ps1
 ```
 
-确保已经激活虚拟环境噢，即命令行开头是 `(venv)` 而不是 `(base)`. 
+On the left side of the command line you should see `(venv)` instead of `(base)`.
 
-安装 `requirements.txt` 中的依赖：
+
+Install the libraries listed in `requirements.txt` by running the following command:
+
 ```
 py -m pip install -r requirements.txt
 ```
 
-## 修改项目并上传
-
-```
-git add ./
-git commit -m "message"
-git push origin master
-```
-
-如果不上传到主分支 `master`，比如创建分支名为 `m2`：
-```
-git checkout -b m2
-```
-
-如果要切换回来：
-```
-git checkout -
-```
-
-### 更新 `requirements.txt`
-
-如果有在虚拟环境里安装新的包，不用把 `./venv/` 文件夹里的文件传上来（我已经写在了 `.gitignore` 里，所以应该不会传上来），取而代之可以更新一下 `requirements.txt` 文件。
-
-确保已经激活虚拟环境噢，即命令行开头是 `(venv)` 而不是 `(base)`. 
-
-```
-pip freeze > requirements.txt
-```

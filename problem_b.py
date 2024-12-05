@@ -1,3 +1,4 @@
+
 from ortools.linear_solver import pywraplp
 import read_data
 import exact_search
@@ -6,9 +7,9 @@ import solution_output
 import simulated_annealing as sm
 import check
 
-def problemA(): 
+def problemB(): 
 
-    solution = solution_input.inputSolution(task='a', file_name='a_sm', print_out=False)
+    solution = solution_input.inputSolution(task='b', file_name='b_sm', print_out=False)
     
     current_best_solution = solution.copy()
     min_num_containers = len(current_best_solution)
@@ -16,9 +17,9 @@ def problemA():
     iter_num = 1000
     iter_cnt = 0
     while iter_cnt < iter_num:
-        solution = sm.simulatedAnnealing(task='a', solution=current_best_solution, num_iter=10000000000, print_out=False, initial_temperature=1000000000, cooling_rate=0.999)
+        solution = sm.simulatedAnnealing(task='b', solution=current_best_solution, num_iter=10000000000, print_out=False, order_repeat_limit=110, initial_temperature=1000000000, cooling_rate=0.999)
 
-        if check.check(solution=solution, task='a'):
+        if check.check(solution=solution, task='b'):
             if len(solution) < min_num_containers:
                 current_best_solution = solution.copy()
                 min_num_containers = len(solution)
@@ -37,4 +38,4 @@ def problemA():
 
         iter_cnt += 1
 
-problemA() 
+problemB() 

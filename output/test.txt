@@ -2369,8 +2369,8 @@ Container 295:
 Total analysis: 
 ©À©¤ Total number of containers used: 296
 ©À©¤ Utilization rate
-©¦  ©À©¤ weight rate:  0.8803
-©¦  ©À©¤ volume rate:  0.8101
-©¦  ©À©¤ pallets rate:  0.7153
-©¦  ©¸©¤ total:  0.8019
+©¦  ©À©¤ weight rate:  0.8832
+©¦  ©À©¤ volume rate:  0.8129
+©¦  ©À©¤ pallets rate:  0.7177
+©¦  ©¸©¤ total:  0.8046
 ©¸©¤ All containers satisfy the capacity constraints.
