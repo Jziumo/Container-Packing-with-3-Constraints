@@ -1,4 +1,5 @@
 import read_data
+import check
 
 def greedy(task, data=None, print_out=False):
     if data == None: 
@@ -147,11 +148,11 @@ def greedy(task, data=None, print_out=False):
 
     if print_out:
         print(output_message) 
-    output_path = ''
-    if task == 'a':
-        output_path = "./output/result_a_greedy.txt"
-    elif task == 'b':
-        output_path = "./output/result_b_greedy.txt"
+    output_path = './output/result_' + task + '_greedy.txt'
+    # if task == 'a':
+    #     output_path = "./output/result_a_greedy.txt"
+    # elif task == 'b':
+    #     output_path = "./output/result_b_greedy.txt"
 
     with open(output_path, "w") as file: 
         file.write(output_message)
@@ -164,6 +165,11 @@ def exceedLimit(cur_weight, cur_volume, cur_pallets, data, i):
 def testGreedy(task, w=1, v=1, p=1):
     data = read_data.readSortedData(task=task, w=w, v=v, p=p, ascending=False, print_out=False)
     solution, num_containers = greedy(task=task, data=data, print_out=False)
+    
+    check_result = check.check(solution=solution, task=task)
+
+    print(check_result)
+
     print(f"number of containers: {num_containers}")
 
 def utilizationRateBasedGreedy(task):
@@ -171,11 +177,7 @@ def utilizationRateBasedGreedy(task):
     solution, num_containers = greedy(task=task, data=data, print_out=False)
     print(f"number of containers: {num_containers}")
 
-def testBestGreedySolutions(task):
-    weight_limit = 10
-    volume_limit = 1000
-    pallets_limit = 50
-
+def testBestGreedySolutions(task, weight_limit = 10, volume_limit = 1000, pallets_limit = 50):
     min_num_containers = 2000
     best_w = 0
     best_v = 0
@@ -201,6 +203,8 @@ def testBestGreedySolutions(task):
     return best_w, best_v, best_p
 
 # utilizationRateBasedGreedy('a')
-utilizationRateBasedGreedy('b')
-# testGreedy('a', w=1, v=201, p=1)
-# testGreedy('b', w=5, v=153, p=45)
+# utilizationRateBasedGreedy('c')
+# testGreedy('a', w=0, v=0, p=1)
+# testGreedy('b', w=0, v=0, p=1)
+# testGreedy('c,', w=1, v=0, p=0)
+# testBestGreedySolutions('c', weight_limit=50)

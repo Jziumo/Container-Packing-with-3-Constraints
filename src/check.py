@@ -1,5 +1,3 @@
-import greedy_solution as greedy
-import read_data
 
 def check(solution, task):
 
@@ -8,6 +6,9 @@ def check(solution, task):
         correct_orders_num = 690
     elif task == 'b':
         correct_orders_num = 1000
+    else:
+        correct_orders_num = 2000
+
     
 
     max_pallets = 60

@@ -7,7 +7,7 @@ import check
 import solution_output
 
 
-def simulatedAnnealing(task, solution=None, num_iter = 100000, print_out=False, order_repeat_limit=75, cooling_rate=0.98, initial_temperature=100000000):
+def simulatedAnnealing(task, solution=None, num_iter = 10000000000, print_out=False, order_repeat_limit=75, cooling_rate=0.999, initial_temperature=1000000000, epsilon=10e16):
     
 
     initial_num_containers = 114514
@@ -24,6 +24,10 @@ def simulatedAnnealing(task, solution=None, num_iter = 100000, print_out=False, 
             w = 5
             v = 153
             p = 45
+        else:
+            w = 15
+            v = 277
+            p = 1
 
         data = read_data.readSortedData(task=task, w=w, v=v, p=p, ascending=False, print_out=False)
         solution, initial_num_containers = greedy.greedy(task=task, data=data, print_out=False)
@@ -208,7 +212,7 @@ def simulatedAnnealing(task, solution=None, num_iter = 100000, print_out=False, 
             else:
                 # changes are not more optimal, so return to the previous solution
                 # but a random probability that the new solution is accepted
-                delta = 10e16 * abs(current_rate - avg_rate)
+                delta = epsilon * abs(current_rate - avg_rate)
                 random_num = np.random.rand()
                 if random_num < math.exp(-delta / temperature):
                     current_rate = avg_rate

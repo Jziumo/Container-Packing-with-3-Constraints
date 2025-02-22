@@ -1,6 +1,9 @@
 import read_data
 import statistics
 import matplotlib.pyplot as plt
+import greedy_solution as greedy
+import random_solution as rd
+import solution_input
 
 def getDataInsights(task):
     data = read_data.readData(task=task, first_n_rows=None, print_out=True)
@@ -66,6 +69,45 @@ def viewOrder(task, order):
 
     return
 
+def compareWithRandom(task='a'):
+    data = read_data.readSortedData(task='a', w=1, v=201, p=1, first_n_rows=None)
+    solution, num_containers = greedy.greedy(task=task, data=data, print_out=False)
+
+    random_rates = []
+    greedy_x = []
+    random_x = []
+    greedy_rates = []
+    for i in range(num_containers):
+        container = solution[i]
+        greedy_rates.append(container['rate'])
+        greedy_x.append((i + 1) / 100)
+
+    # random_solution, random_num_containers = rd.getRandomSolution(task='a')
+
+    # for i in range(random_num_containers):
+    #     container = random_solution[i]
+    #     random_rates.append(container['rate'])
+    #     random_x.append((i + 1) / 100)
+    sa_rates = []
+    sa_x = []
+    sa_solution = solution_input.inputSolution(task='a', file_name='a_sm')
+    for i in range(len(sa_solution)):
+        container = sa_solution[i]
+        sa_rates.append(container['rate'])
+        sa_x.append((i + 1) / 100)
+        
+
+    plt.scatter(greedy_x, greedy_rates, label='Greedy')
+    plt.scatter(sa_x, sa_rates, label='SA')
+    plt.ylabel('Utilization Rate')
+    plt.title(f'Utilization Rate of Containers in Part ({task})')
+    plt.legend(loc='upper right')
+    plt.show()
+    return
+    
+        
+
 # getDataInsights(task='a')
 # getDataInsights(task='b')
-viewOrder(task='a', order='74322802')
+# viewOrder(task='a', order='74322802')
+compareWithRandom()

@@ -1,0 +1,5 @@
+for \alpha <- (1->\alpha_max):
+    for \gamma <- (1->\gamma_max):
+        for \beta <- (1->\beta_max):
+            if greedy(\alpha,\beta,\gamma) is better
+                update(\alpha,\beta,\gamma)

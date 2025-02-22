@@ -2,6 +2,7 @@ import pandas as pd
 
 data_1a_path = "./data/Term project data 1a.csv"
 data_1b_path = "./data/Term project data 1b.csv"
+data_final_path = "./data/Term project data final.csv"
 
 # column names mapping to the original csv file
 col_names = {"order number": "Order Number", "weight": "Weight (lbs)", "volume": "Volume (in3)", "pallets": "Pallets", "lambda": "lambda"}
@@ -130,6 +131,8 @@ def getDataFrame(task):
         file_path = data_1a_path
     elif task == 'b':
         file_path = data_1b_path
+    else:
+        file_path = data_final_path
 
     data = read(file_path)
     return data
@@ -175,3 +178,4 @@ def getMaxUtilizationScore(df):
 
 
 # getSortedDataBatches('a', w=1, v=1, p=1, batch_size_approximate=75, ascending=False, print_out=True)
+# readData(task='c', print_out=True)

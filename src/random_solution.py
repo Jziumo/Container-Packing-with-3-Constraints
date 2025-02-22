@@ -112,11 +112,11 @@ def getRandomSolution(task, print_out=False):
 
     if print_out:
         print(output_message) 
-    output_path = ''
-    if task == 'a':
-        output_path = "./output/result_a_random.txt"
-    elif task == 'b':
-        output_path = "./output/result_b_random.txt"
+    output_path = './output/result_' + task + '_greedy.txt'
+    # if task == 'a':
+    #     output_path = "./output/result_a_random.txt"
+    # elif task == 'b':
+    #     output_path = "./output/result_b_random.txt"
 
     with open(output_path, "w") as file: 
         file.write(output_message)
@@ -136,4 +136,4 @@ def randomTest(task, test_times=100):
     print(f"Average number of containers in random solutions: {average: .2f}")
     return
 
-# randomTest('b', 10000)
+# randomTest('c', 10000)
